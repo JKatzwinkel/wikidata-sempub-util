@@ -142,8 +142,7 @@ if __name__ == '__main__':
 
       avg = sum([v for k,v in tfidf.items()]) / len(tfidf)
       for k, v in sorted([(k,v) for k,v in tfidf.items()], key=lambda t:t[1]):
-        claimtypes = [c.get('mainsnak',{}).get('datatype') for c in claims.get(k,{})]
-        if v > avg * 4 / 5 and len(claimtypes) > 0 and not any([ct == 'external-id' for ct in claimtypes]):
+        if v > avg * 4 / 5 and wiki.prop(k).type != 'external-id':
           label = ' ({})'.format(wiki.label(wiki.prop(k)))
         else:
           label = ''

@@ -1,6 +1,8 @@
 #!/usr/bin/python
 
 import re as _re
+from datetime import datetime
+
 import pywikibot as _wiki
 
 from SPARQLWrapper import SPARQLWrapper, JSON
@@ -17,9 +19,19 @@ def create_item():
   """ returns a newly created item page """
   return _wiki.ItemPage(repo)
 
-def create_claim(pid):
+def create_claim(pid, isReference=False):
   """ Pass property identifier string (P...) """
-  return _wiki.Claim(repo, pid)
+  return _wiki.Claim(repo, pid, isReference=isReference)
+
+def add_source_url(claim, url):
+  """ Adds given URL as a reference for specified claim and adds current date as reference as well. """
+  source_claim = create_claim('P854', isReference=True)
+  source_claim.setTarget(url)
+  now = datetime.now()
+  source_date = _wiki.WbTime(year=now.year, month=now.month, day=now.day)
+  date_claim = create_claim('P813', isReference=True)
+  date_claim.setTarget(source_date)
+  claim.addSources([source_claim, date_claim], bot=True)
 
 def create_date(date):
   """ give date in format: 'YYYY-MM-DD' """

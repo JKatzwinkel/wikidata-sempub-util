@@ -38,6 +38,14 @@ for identifier, article in apparatus.items():
   for key in ['Language', 'articleType']:
     remains[identifier][key] = article[key]
 
+  # if item page is already assigned, then skip
+  if 'item_page' in article:
+    continue
+
+  # otherwise, create itempage
+  item_page = wiki.create_item()
+  article['item_page'] = item_page.id
+
   # iterate over DC metadata
   for statement in article['meta']:
     key = statement['name']
@@ -73,6 +81,14 @@ for identifier, article in apparatus.items():
         # log if we fail to import statement
         if not target:
           remains[identifier]['meta'].append(statement)
+        else:
+          # create claim
+          claim = wiki.create_claim(prop.id)
+          claim.setTarget(target)
+          # support claim with article URL
+          wiki.add_source_url(claim, article['url'])
+          # add claim to item page
+          item.addClaim(claim, bot=True)
 
         print(key, value, prop, prop.getType(), target)
 

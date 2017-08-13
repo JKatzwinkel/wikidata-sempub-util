@@ -19,21 +19,22 @@ apparatus = json.load(open('apparatus/corpus.json', 'r'))
 # use only reviews and articles (which is almost everything)
 apparatus = {i:a for i,a in apparatus.items() if a['articleType'] in ['Reviews','Articles']}
 
-for article in apparatus.values():
+# remaining properties that we could not import automatically
+remains = {}
+
+for identifier, article in apparatus.items():
+  # extract lang
   lang = article['Language']
   labels = {}
-  for key in ['Language']:
-    prop = wiki.prop(mappings.get(key, {}).get('property'))
-    value = article[key]
-    link = mappings.get(key, {}).get('map', {}).get(value)
-    if link:
-      link = wiki.item(link)
-    print('{}: {} - {} type {} {}'.format(key,
-      value,
-      prop,
-      prop.getType(),
-      '' if not link else link)
-      )
+
+  # create record for failed properties
+  remains[identifier] = {
+      'meta' : []
+      }
+  for key in ['Language', 'articleType']:
+    remains[identifier][key] = article[key]
+
+  # iterate over DC metadata
   for statement in article['meta']:
     key = statement['name']
     value = statement['content']
@@ -48,26 +49,43 @@ for article in apparatus.values():
     # handle mapped DC properties
     if key in mappings:
       prop = wiki.prop(mappings[key].get('property'))
-      target = value
 
-      # if values have a direct mapping to wikidata items, use those
-      if 'map' in mappings[key]:
-        qid = mappings[key]['map'].get(value)
-        if qid:
-          target = wiki.item(qid)
-      else:
-        # reify targets if property expects wikidata item of date
-        if prop.getType() == 'wikibase-item':
-          target = lookup(value, statement.get('lang', 'en'))
-        elif prop.getType() == 'time':
-          target = wiki.create_date(value)
+      if prop: # no property field means ignore this key
 
-      print(key, value, prop, prop.getType(), target)
+        target = value
+
+        # if values have a direct mapping to wikidata items, use those
+        if 'map' in mappings[key]:
+          qid = mappings[key]['map'].get(value)
+          if qid:
+            target = wiki.item(qid)
+        else:
+          # reify targets if property expects wikidata item of date
+          if prop.getType() == 'wikibase-item':
+            target = lookup(value, statement.get('lang', 'en'))
+          elif prop.getType() == 'time':
+            target = wiki.create_date(value)
+
+        # log if we fail to import statement
+        if not target:
+          remains[identifier]['meta'].append(statement)
+
+        print(key, value, prop, prop.getType(), target)
+
     else:
-      print('{} not in fucking mappings'.format(key))
+      # log if we can't map property
+      remains[identifier]['meta'].append(statement)
+
   print(labels)
   print()
 
 
+# save corpus data
+json.dump(apparatus, open('apparatus/corpus.json', 'w'),
+    indent=True, ensure_ascii=False)
+
+# save corpus data we could not import automatically
+json.dump(remains, open('apparatus/remains.json', 'w+'),
+    indent=True, ensure_ascii=False)
 
 

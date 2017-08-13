@@ -102,6 +102,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Editorial"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.11"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.11",
@@ -353,6 +357,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.2"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.2",
@@ -549,6 +557,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.1"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.1",
@@ -905,6 +917,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.10"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.10",
@@ -1166,6 +1182,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.5"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.5",
@@ -1512,6 +1532,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.9"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.9",
@@ -1843,6 +1867,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.3"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.3",
@@ -2124,6 +2152,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.4"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.4",
@@ -2375,6 +2407,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.6"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.6",
@@ -2636,6 +2672,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.7"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.7",
@@ -2997,6 +3037,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2015.0001.8"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.8",
@@ -3268,6 +3312,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Editorial"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.34"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.34",
@@ -3479,6 +3527,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.51"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.51",
@@ -3730,6 +3782,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.54"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.54",
@@ -4051,6 +4107,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.73"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.73",
@@ -4292,6 +4352,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.17"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.17",
@@ -4548,6 +4612,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.28"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.28",
@@ -4754,6 +4822,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.29"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.29",
@@ -4960,6 +5032,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.32"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.32",
@@ -5250,6 +5326,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.42"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.42",
@@ -5466,6 +5546,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.48"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.48",
@@ -5867,6 +5951,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0003.49"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0003.49",
@@ -6108,6 +6196,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0003.25"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0003.25",
@@ -6364,6 +6456,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0003.47"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0003.47",
@@ -6560,6 +6656,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0003.50"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0003.50",
@@ -6826,6 +6926,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.9"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.9",
@@ -7187,6 +7291,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.14"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.14",
@@ -7462,6 +7570,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.31"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.31",
@@ -7618,6 +7730,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.24"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.24",
@@ -7814,6 +7930,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.15"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.15",
@@ -8160,6 +8280,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2016.0002.30"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2016.0002.30",
@@ -8350,6 +8474,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.36"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.36",
@@ -8601,6 +8729,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.23"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.23",
@@ -8892,6 +9024,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.66"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.66",
@@ -9083,6 +9219,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Articles"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.18"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.18",
@@ -9284,6 +9424,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Interviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.71"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.71",
@@ -9510,6 +9654,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.80"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.80",
@@ -9851,6 +9999,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.53"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.53",
@@ -10137,6 +10289,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.35"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.35",
@@ -10463,6 +10619,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.21"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.21",
@@ -10799,6 +10959,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.41"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.41",
@@ -11000,6 +11164,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.33"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.33",
@@ -11201,6 +11369,10 @@
    {
     "name": "DC.Type.articleType",
     "content": "Reviews"
+   },
+   {
+    "name": "DC.Source.DOI",
+    "content": "http://dx.doi.org/10.17892/app.2017.0004.79"
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2017.0004.79",

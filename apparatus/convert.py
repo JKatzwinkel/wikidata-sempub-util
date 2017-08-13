@@ -76,7 +76,11 @@ mappings = {
         'Reviews': 'Q637866',
         'Articles': 'Q213051'
         }
-      }
+      },
+    'DC.Source': {},
+    'DC.Source.ISSN': {},
+    'DC.Type': {},
+    'DC.Title.Alternative': {}
 
 
   }

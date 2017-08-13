@@ -22,7 +22,11 @@ apparatus = {i:a for i,a in apparatus.items() if a['articleType'] in ['Reviews',
 # remaining properties that we could not import automatically
 remains = {}
 
+cnt = 0
 for identifier, article in apparatus.items():
+  cnt += 1
+  if cnt > 1:
+    break
   # extract lang
   lang = article['Language']
   labels = {}

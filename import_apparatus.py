@@ -88,13 +88,16 @@ for identifier, article in apparatus.items():
           # support claim with article URL
           wiki.add_source_url(claim, article['url'])
           # add claim to item page
-          item.addClaim(claim, bot=True)
+          item_page.addClaim(claim, bot=True)
 
         print(key, value, prop, prop.getType(), target)
 
     else:
       # log if we can't map property
       remains[identifier]['meta'].append(statement)
+
+  # add labels to item page
+  item_page.editLabels(labels=labels, bot=True)
 
   print(labels)
   print()

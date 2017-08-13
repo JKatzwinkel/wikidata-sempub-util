@@ -10,33 +10,7 @@ from sys import stdin
 import math
 
 import wiki
-
-ends = {'search': 'https://www.wikidata.org/w/api.php'}
-
-def request(url, **kwargs):
-  kwargs['format'] = 'json'
-
-  opener = build_opener()
-  url = "%s?%s" % (url, urlencode(kwargs))
-
-  try:
-    wdata = opener.open(url).read().decode()
-
-  except (URLError, HTTPError) as e:
-    print(e)
-
-  return wdata
-
-
-def lookup(query):
-  """ Goes to wikidata and tries to return item or property as json."""
-  param = {
-      'action': 'wbsearchentities',
-      'language': 'en',
-      'search': query}
-  wdata = request(ends['search'], **param)
-  result = json.loads(wdata)
-  return result
+from search import lookup
 
 
 

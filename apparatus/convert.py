@@ -38,6 +38,9 @@ mappings = {
         }
       },
     'DC.Identifier.URI': {
+      'property': 'P854' # reference URL
+      },
+    'P953': {
       'property' : 'P953' # full work available
       },
     'DC.Creator.PersonalName': {

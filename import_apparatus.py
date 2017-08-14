@@ -27,9 +27,12 @@ for identifier, article in apparatus.items():
   cnt += 1
   if cnt > 1:
     break
+
   # extract lang
   lang = article['Language']
   labels = {}
+
+  print('processing resource # {} ({})'.format(identifier, lang))
 
   # create record for failed properties
   remains[identifier] = {
@@ -66,9 +69,13 @@ for identifier, article in apparatus.items():
 
     # handle mapped DC properties
     if key in mappings:
-      prop = wiki.prop(mappings[key].get('property'))
+      # retrieve property object from wikidata
+      prop = mappings[key].get('property')
+      if prop:
+        prop = wiki.prop(prop)
 
       if prop: # no property field means ignore this key
+        print('use property {}'.format(prop))
         # see if we need to split value string
         if 'delimiter' in mappings[key]:
           values = value.split(mappings[key]['delimiter'])
@@ -76,6 +83,10 @@ for identifier, article in apparatus.items():
           values = [value]
 
         for value in values:
+          print('value:', value)
+
+          split_statement = {k:v for k,v in statement.items()}
+          split_statement['content'] = value
 
           target = value
 
@@ -84,6 +95,8 @@ for identifier, article in apparatus.items():
             qid = mappings[key]['map'].get(value)
             if qid:
               target = wiki.item(qid)
+            else:
+              target = None
           else:
             # reify targets if property expects wikidata item of date
             if prop.getType() == 'wikibase-item':
@@ -93,15 +106,30 @@ for identifier, article in apparatus.items():
 
           # log if we fail to import statement
           if not target:
-            remains[identifier]['meta'].append(statement)
+            remains[identifier]['meta'].append(split_statement)
+            print('could not import statement:', split_statement)
           else:
-            # create claim
-            claim = wiki.create_claim(prop.id)
-            claim.setTarget(target)
-            # support claim with article URL
-            wiki.add_source_url(claim, article['url'])
-            # add claim to item page
-            item_page.addClaim(claim, bot=True)
+            try:
+
+              print('creating claim using property {}'.format(prop.id))
+              # create claim
+              claim = wiki.create_claim(prop.id)
+              print('claim {} about to have target set: {}'.format(claim, target))
+              claim.setTarget(target)
+              # support claim with article URL
+              #print('add source URL as a reference: {}'.format(article['url']))
+              #wiki.add_source_url(claim, article['url'])
+              # add claim to item page
+              print('add claim to item page {}'.format(item_page.id))
+              item_page.addClaim(claim, bot=True)
+
+            except Exception as e:
+
+              print('error: {}'.format(e))
+              print('could not import statement {}'.format(split_statement))
+              remains[identifier]['meta'].append(split_statement)
+
+
 
           print(key, value, prop, prop.getType(), target)
 

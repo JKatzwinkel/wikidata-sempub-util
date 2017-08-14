@@ -56,6 +56,7 @@ for identifier, article in apparatus.items():
   # if item page is already assigned, use this item page to populate
   if 'item_page' in article:
     item_page = wiki.item(article['item_page'])
+    print('loaded item page ', item_page)
   else:
     # otherwise, create itempage
     item_page = wiki.create_item()
@@ -70,6 +71,7 @@ for identifier, article in apparatus.items():
   for p, q in default_statements.items():
     claim = wiki.create_claim(p)
     target = wiki.item(q)
+    claim.setTarget(target)
     item_page.addClaim(claim, bot=True)
 
   # iterate over DC metadata

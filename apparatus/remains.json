@@ -122,6 +122,125 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q36403083"
+ },
+ "10": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Polen; UdSSR"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Poland; USSR"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "2. Hälfte 20. Jahrhundert"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1970s; 1980s"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Inke Arns"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kollektive Aktionen"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anatolij Žigalov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Polnische Neo-Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Kollektivnye deistviia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Andrei Monastyrskii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Anatolii Zhigalov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Polish neo-avant-garde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Moscow Conceptualism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "КвеКулик"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Зофья Кулик"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Пжемыслав Квек"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Оскар Хансен"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Анатолий Жигалов"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "польский неоавангард"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q36418404"
  }
-
 }

@@ -1,7 +1,7 @@
 {
  "11": {
   "id": "11",
-	"item_page": "Q36375295",
+  "item_page": "Q36375295",
   "url": "http://www.apparatusjournal.net/index.php/apparatus/article/view/11/73",
   "meta": [
    {
@@ -118,10 +118,10 @@
   "articleType": "Editorial"
  },
  "2": {
-	 "item_page": "Q36403083",
+  "item_page": "Q36403083",
   "id": "2",
   "url": "http://www.apparatusjournal.net/index.php/apparatus/article/view/2/75",
-	"done": true,
+  "done": true,
   "meta": [
    {
     "name": "DC.Coverage.spatial",
@@ -381,7 +381,7 @@
  "1": {
   "id": "1",
   "url": "http://www.apparatusjournal.net/index.php/apparatus/article/view/1/74",
-	"item_page": "Q36415251",
+  "item_page": "Q36415251",
   "meta": [
    {
     "name": "DC.Coverage.spatial",
@@ -581,7 +581,8 @@
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.1",
   "Language": "uk",
-  "articleType": "Articles"
+  "articleType": "Articles",
+  "done": true
  },
  "10": {
   "id": "10",

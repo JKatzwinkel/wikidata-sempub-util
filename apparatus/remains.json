@@ -1,4 +1,59 @@
 {
+ "1": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "USSR; Europe"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Language",
+    "scheme": "ISO639-1",
+    "content": "uk"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Ol'ha Briukhovets'ka"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sergej Paradžanov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Sergii Paradzhanov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "aппарат"
+   }
+  ],
+  "Language": "uk",
+  "articleType": "Articles",
+  "item_page": "Q36415251"
+ },
  "2": {
   "meta": [
    {
@@ -68,4 +123,5 @@
   "articleType": "Articles",
   "item_page": "Q36403083"
  }
+
 }

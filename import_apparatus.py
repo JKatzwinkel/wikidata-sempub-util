@@ -14,6 +14,15 @@ def lookup(name, lang):
   if len(results) > 0:
     return wiki.item(results[0]['id'])
 
+# default statements:
+default_statements = {
+    # published in apparatus
+    'P1433': 'Q30689463',
+    # instance of scientific article
+    'P31': 'Q13442814'
+    }
+
+
 # load corpus
 apparatus = json.load(open('apparatus/corpus.json', 'r'))
 
@@ -53,10 +62,15 @@ for identifier, article in apparatus.items():
     article['item_page'] = item_page.id
     print('created item page {}'.format(item_page.id))
 
-    item_page.touch()
     article['item_page'] = item_page.id
 
   remains[identifier]['item_page'] = item_page.id
+
+  # add default statements
+  for p, q in default_statements.items():
+    claim = wiki.create_claim(p)
+    target = wiki.item(q)
+    item_page.addClaim(claim, bot=True)
 
   # iterate over DC metadata
   for statement in article['meta']:

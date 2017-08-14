@@ -27,7 +27,10 @@ default_statements = {
 apparatus = json.load(open('apparatus/corpus.json', 'r'))
 
 # remaining properties that we could not import automatically
-remains = {}
+try:
+  remains = json.load(open('apparatus/remains.json', 'r'))
+except:
+  remains = {}
 
 cnt = 0
 for identifier, article in apparatus.items():

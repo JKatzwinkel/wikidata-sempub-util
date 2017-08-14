@@ -17,7 +17,10 @@ repo = _site.data_repository()
 
 def create_item():
   """ returns a newly created item page """
-  return _wiki.ItemPage(repo)
+  item = repo.editEntity(dict(), dict(), summary="created by script")
+  if item.get('success'):
+    qid = item.get('entity', {}).get('id')
+    return item(qid)
 
 def create_claim(pid, isReference=False):
   """ Pass property identifier string (P...) """

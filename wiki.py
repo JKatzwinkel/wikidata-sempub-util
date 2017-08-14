@@ -44,6 +44,11 @@ def create_date(date):
     return _wiki.WbTime(**kwargs)
   return None
 
+def create_monolingualtext(text, lang):
+  """ returns a `WbMonolingualText` object with specified text and language
+  @param lang language code (en, de, ...)"""
+  return _wiki.WbMonolingualText(text, lang)
+
 def extract_id(url):
   """ Extracts item or property ID from any string."""
   return _re.findall("[PpQq][1-9][0-9]*", url)[0]

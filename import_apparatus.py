@@ -102,10 +102,12 @@ for identifier, article in apparatus.items():
               target = None
           else:
             # reify targets if property expects wikidata item of date
-            if prop.getType() == 'wikibase-item':
+            if prop.type == 'wikibase-item':
               target = lookup(value, statement.get('lang', 'en'))
-            elif prop.getType() == 'time':
+            elif prop.type == 'time':
               target = wiki.create_date(value)
+            elif prop.type == 'monolingualtext':
+              target = wiki.create_monolingualtext(value, lang)
 
           # log if we fail to import statement
           if not target:

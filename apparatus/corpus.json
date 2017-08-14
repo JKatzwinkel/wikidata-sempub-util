@@ -106,14 +106,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.11"
+    "content": "10.17892/app.2015.0001.11"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/11/73"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.11",
+  "doi": "10.17892/app.2015.0001.11",
   "Language": "de",
   "articleType": "Editorial"
  },
@@ -367,14 +367,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.2"
+    "content": "10.17892/app.2015.0001.2"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/2/75"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.2",
+  "doi": "10.17892/app.2015.0001.2",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -572,14 +572,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.1"
+    "content": "10.17892/app.2015.0001.1"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/1/74"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.1",
+  "doi": "10.17892/app.2015.0001.1",
   "Language": "uk",
   "articleType": "Articles",
   "done": true
@@ -937,14 +937,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.10"
+    "content": "10.17892/app.2015.0001.10"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/10/66"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.10",
+  "doi": "10.17892/app.2015.0001.10",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -1206,14 +1206,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.5"
+    "content": "10.17892/app.2015.0001.5"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/5/70"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.5",
+  "doi": "10.17892/app.2015.0001.5",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -1560,14 +1560,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.9"
+    "content": "10.17892/app.2015.0001.9"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/19/77"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.9",
+  "doi": "10.17892/app.2015.0001.9",
   "Language": "lv",
   "articleType": "Articles"
  },
@@ -1899,14 +1899,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.3"
+    "content": "10.17892/app.2015.0001.3"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/3/65"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.3",
+  "doi": "10.17892/app.2015.0001.3",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -2188,14 +2188,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.4"
+    "content": "10.17892/app.2015.0001.4"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/4/72"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.4",
+  "doi": "10.17892/app.2015.0001.4",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -2447,14 +2447,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.6"
+    "content": "10.17892/app.2015.0001.6"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/6/69"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.6",
+  "doi": "10.17892/app.2015.0001.6",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -2716,14 +2716,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.7"
+    "content": "10.17892/app.2015.0001.7"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/7/67"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.7",
+  "doi": "10.17892/app.2015.0001.7",
   "Language": "de",
   "articleType": "Reviews"
  },
@@ -3085,14 +3085,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2015.0001.8"
+    "content": "10.17892/app.2015.0001.8"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/8/68"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2015.0001.8",
+  "doi": "10.17892/app.2015.0001.8",
   "Language": "ru",
   "articleType": "Reviews"
  },
@@ -3364,14 +3364,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.34"
+    "content": "10.17892/app.2016.0002.34"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/34/94"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.34",
+  "doi": "10.17892/app.2016.0002.34",
   "Language": "en",
   "articleType": "Editorial"
  },
@@ -3583,14 +3583,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.51"
+    "content": "10.17892/app.2016.0002-3.51"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/51/105"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.51",
+  "doi": "10.17892/app.2016.0002-3.51",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -3842,14 +3842,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.54"
+    "content": "10.17892/app.2016.0002-3.54"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/54/106"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.54",
+  "doi": "10.17892/app.2016.0002-3.54",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -4171,14 +4171,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.73"
+    "content": "10.17892/app.2016.0002-3.73"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/73/107"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.73",
+  "doi": "10.17892/app.2016.0002-3.73",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -4420,14 +4420,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.17"
+    "content": "10.17892/app.2016.0002.17"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/17/81"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.17",
+  "doi": "10.17892/app.2016.0002.17",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -4684,14 +4684,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.28"
+    "content": "10.17892/app.2016.0002.28"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/28/82"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.28",
+  "doi": "10.17892/app.2016.0002.28",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -4898,14 +4898,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.29"
+    "content": "10.17892/app.2016.0002.29"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/29/88"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.29",
+  "doi": "10.17892/app.2016.0002.29",
   "Language": "cs",
   "articleType": "Articles"
  },
@@ -5112,14 +5112,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.32"
+    "content": "10.17892/app.2016.0002.32"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/32/87"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.32",
+  "doi": "10.17892/app.2016.0002.32",
   "Language": "pl",
   "articleType": "Articles"
  },
@@ -5410,14 +5410,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.42"
+    "content": "10.17892/app.2016.0002-3.42"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/42/96"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.42",
+  "doi": "10.17892/app.2016.0002-3.42",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -5634,14 +5634,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002-3.48"
+    "content": "10.17892/app.2016.0002-3.48"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/48/99"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002-3.48",
+  "doi": "10.17892/app.2016.0002-3.48",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -6043,14 +6043,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0003.49"
+    "content": "10.17892/app.2016.0003.49"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/49/103"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0003.49",
+  "doi": "10.17892/app.2016.0003.49",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -6292,14 +6292,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0003.25"
+    "content": "10.17892/app.2016.0003.25"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/25/101"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0003.25",
+  "doi": "10.17892/app.2016.0003.25",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -6556,14 +6556,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0003.47"
+    "content": "10.17892/app.2016.0003.47"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/47/102"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0003.47",
+  "doi": "10.17892/app.2016.0003.47",
   "Language": "de",
   "articleType": "Reviews"
  },
@@ -6760,14 +6760,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0003.50"
+    "content": "10.17892/app.2016.0003.50"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/50/100"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0003.50",
+  "doi": "10.17892/app.2016.0003.50",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -7034,14 +7034,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.9"
+    "content": "10.17892/app.2016.0002.9"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/9/76"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.9",
+  "doi": "10.17892/app.2016.0002.9",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -7403,14 +7403,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.14"
+    "content": "10.17892/app.2016.0002.14"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/14/95"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.14",
+  "doi": "10.17892/app.2016.0002.14",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -7686,14 +7686,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.31"
+    "content": "10.17892/app.2016.0002.31"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/31/86"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.31",
+  "doi": "10.17892/app.2016.0002.31",
   "Language": "de",
   "articleType": "Reviews"
  },
@@ -7850,14 +7850,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.24"
+    "content": "10.17892/app.2016.0002.24"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/24/84"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.24",
+  "doi": "10.17892/app.2016.0002.24",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -8054,14 +8054,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.15"
+    "content": "10.17892/app.2016.0002.15"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/15/83"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.15",
+  "doi": "10.17892/app.2016.0002.15",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -8408,14 +8408,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2016.0002.30"
+    "content": "10.17892/app.2016.0002.30"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/30/85"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2016.0002.30",
+  "doi": "10.17892/app.2016.0002.30",
   "Language": "ru",
   "articleType": "Reviews"
  },
@@ -8606,14 +8606,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.36"
+    "content": "10.17892/app.2017.0004.36"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/36/119"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.36",
+  "doi": "10.17892/app.2017.0004.36",
   "Language": "ru",
   "articleType": "Articles"
  },
@@ -8865,14 +8865,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.23"
+    "content": "10.17892/app.2017.0004.23"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/23/122"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.23",
+  "doi": "10.17892/app.2017.0004.23",
   "Language": "ru",
   "articleType": "Articles"
  },
@@ -9164,14 +9164,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.66"
+    "content": "10.17892/app.2017.0004.66"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/66/118"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.66",
+  "doi": "10.17892/app.2017.0004.66",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -9363,14 +9363,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.18"
+    "content": "10.17892/app.2017.0004.18"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/18/115"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.18",
+  "doi": "10.17892/app.2017.0004.18",
   "Language": "en",
   "articleType": "Articles"
  },
@@ -9572,14 +9572,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.71"
+    "content": "10.17892/app.2017.0004.71"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/71/114"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.71",
+  "doi": "10.17892/app.2017.0004.71",
   "Language": "en",
   "articleType": "Interviews"
  },
@@ -9806,14 +9806,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.80"
+    "content": "10.17892/app.2017.0004.80"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/80/108"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.80",
+  "doi": "10.17892/app.2017.0004.80",
   "Language": "de",
   "articleType": "Reviews"
  },
@@ -10155,14 +10155,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.53"
+    "content": "10.17892/app.2017.0004.53"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/53/109"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.53",
+  "doi": "10.17892/app.2017.0004.53",
   "Language": "ru",
   "articleType": "Reviews"
  },
@@ -10449,14 +10449,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.35"
+    "content": "10.17892/app.2017.0004.35"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/35/120"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.35",
+  "doi": "10.17892/app.2017.0004.35",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -10783,14 +10783,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.21"
+    "content": "10.17892/app.2017.0004.21"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/21/110"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.21",
+  "doi": "10.17892/app.2017.0004.21",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -11127,14 +11127,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.41"
+    "content": "10.17892/app.2017.0004.41"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/41/111"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.41",
+  "doi": "10.17892/app.2017.0004.41",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -11336,14 +11336,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.33"
+    "content": "10.17892/app.2017.0004.33"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/33/112"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.33",
+  "doi": "10.17892/app.2017.0004.33",
   "Language": "en",
   "articleType": "Reviews"
  },
@@ -11545,14 +11545,14 @@
    },
    {
     "name": "DC.Source.DOI",
-    "content": "http://dx.doi.org/10.17892/app.2017.0004.79"
+    "content": "10.17892/app.2017.0004.79"
    },
    {
     "name": "P953",
     "content": "http://www.apparatusjournal.net/index.php/apparatus/article/view/79/113"
    }
   ],
-  "doi": "http://dx.doi.org/10.17892/app.2017.0004.79",
+  "doi": "10.17892/app.2017.0004.79",
   "Language": "ru",
   "articleType": "Reviews"
  }

@@ -38,13 +38,19 @@ for identifier, article in apparatus.items():
   for key in ['Language', 'articleType']:
     remains[identifier][key] = article[key]
 
-  # if item page is already assigned, then skip
+  # if item page is already assigned, use this item page to populate
   if 'item_page' in article:
-    continue
+    item_page = wiki.item(article['item_page'])
+  else:
+    # otherwise, create itempage
+    item_page = wiki.create_item()
+    article['item_page'] = item_page.id
+    print('created item page {}'.format(item_page.id))
 
-  # otherwise, create itempage
-  item_page = wiki.create_item()
-  article['item_page'] = item_page.id
+    item_page.touch()
+    article['item_page'] = item_page.id
+
+  remains[identifier]['item_page'] = item_page.id
 
   # iterate over DC metadata
   for statement in article['meta']:

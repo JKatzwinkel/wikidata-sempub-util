@@ -17,9 +17,9 @@ repo = _site.data_repository()
 
 def create_item():
   """ returns a newly created item page """
-  item = repo.editEntity(dict(), dict(), summary="created by script")
-  if item.get('success'):
-    qid = item.get('entity', {}).get('id')
+  new_item = repo.editEntity(dict(), dict(), summary="created by script")
+  if new_item.get('success'):
+    qid = new_item.get('entity', {}).get('id')
     return item(qid)
 
 def create_claim(pid, isReference=False):

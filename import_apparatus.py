@@ -16,14 +16,17 @@ def lookup(name, lang):
 
 # load corpus
 apparatus = json.load(open('apparatus/corpus.json', 'r'))
-# use only reviews and articles (which is almost everything)
-apparatus = {i:a for i,a in apparatus.items() if a['articleType'] in ['Reviews','Articles']}
 
 # remaining properties that we could not import automatically
 remains = {}
 
 cnt = 0
 for identifier, article in apparatus.items():
+  # use only reviews and articles (which is almost everything)
+  # and only resources that have not been imported yet
+  if article['articleType'] not in ['Reviews', 'Articles'] or article.get('done'):
+    continue
+
   cnt += 1
   if cnt > 1:
     break
@@ -122,6 +125,8 @@ for identifier, article in apparatus.items():
               # add claim to item page
               print('add claim to item page {}'.format(item_page.id))
               item_page.addClaim(claim, bot=True)
+
+              article['done'] = True
 
             except Exception as e:
 

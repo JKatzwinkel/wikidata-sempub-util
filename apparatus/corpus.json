@@ -423,7 +423,7 @@
    {
     "name": "DC.Language",
     "scheme": "ISO639-1",
-    "content": "ukr"
+    "content": "uk"
    },
    {
     "name": "DC.Rights",
@@ -580,7 +580,7 @@
    }
   ],
   "doi": "http://dx.doi.org/10.17892/app.2015.0001.1",
-  "Language": "ukr",
+  "Language": "uk",
   "articleType": "Articles"
  },
  "10": {

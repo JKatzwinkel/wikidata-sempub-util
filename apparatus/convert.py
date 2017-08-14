@@ -1,12 +1,4 @@
 
-# map ISO639-1 language codes to corresponding wikidata item pages
-lang_map = {'cs': 'Q9056',
- 'en': 'Q1860',
- 'lv': 'Q9078',
- 'pl': 'Q809',
- 'ru': 'Q7737',
- 'ukr': 'Q8798'}
-
 
 # map properties to DC fieldsand item pages to property values
 mappings = {
@@ -19,7 +11,7 @@ mappings = {
         'lv': 'Q9078',
         'pl': 'Q809',
         'ru': 'Q7737',
-        'ukr': 'Q8798'
+        'uk': 'Q8798'
         }
       },
     'DC.Source.DOI': {

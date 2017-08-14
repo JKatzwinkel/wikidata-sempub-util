@@ -1,0 +1,71 @@
+{
+ "2": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "UdSSR"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "USSR"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1920er; 1930er"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1920s, 1930s"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-10-14"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Adelheid Heftberger"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Agitzug"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kinozug"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film train"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Propaganda in Motion. Dziga Vertov`s and Aleksandr Medvedkin`s Film Trains and Agit Steamers of the 1920s and 1930s"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q36403083"
+ }
+}

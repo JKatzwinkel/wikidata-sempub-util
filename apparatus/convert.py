@@ -53,7 +53,8 @@ mappings = {
       'property': 'P433' # issue
       },
     'DC.Contributor.Sponsor': {
-      'property': 'P859' # sponsor
+      'property': 'P859', # sponsor
+      'delimiter': ';' # split content string at this character
       },
     'DC.Rights': {
       'property': 'P275', # license

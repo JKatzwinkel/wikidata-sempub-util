@@ -63,34 +63,41 @@ for identifier, article in apparatus.items():
       prop = wiki.prop(mappings[key].get('property'))
 
       if prop: # no property field means ignore this key
-
-        target = value
-
-        # if values have a direct mapping to wikidata items, use those
-        if 'map' in mappings[key]:
-          qid = mappings[key]['map'].get(value)
-          if qid:
-            target = wiki.item(qid)
+        # see if we need to split value string
+        if 'delimiter' in mappings[key]:
+          values = value.split(mappings[key]['delimiter'])
         else:
-          # reify targets if property expects wikidata item of date
-          if prop.getType() == 'wikibase-item':
-            target = lookup(value, statement.get('lang', 'en'))
-          elif prop.getType() == 'time':
-            target = wiki.create_date(value)
+          values = [value]
 
-        # log if we fail to import statement
-        if not target:
-          remains[identifier]['meta'].append(statement)
-        else:
-          # create claim
-          claim = wiki.create_claim(prop.id)
-          claim.setTarget(target)
-          # support claim with article URL
-          wiki.add_source_url(claim, article['url'])
-          # add claim to item page
-          item_page.addClaim(claim, bot=True)
+        for value in values:
 
-        print(key, value, prop, prop.getType(), target)
+          target = value
+
+          # if values have a direct mapping to wikidata items, use those
+          if 'map' in mappings[key]:
+            qid = mappings[key]['map'].get(value)
+            if qid:
+              target = wiki.item(qid)
+          else:
+            # reify targets if property expects wikidata item of date
+            if prop.getType() == 'wikibase-item':
+              target = lookup(value, statement.get('lang', 'en'))
+            elif prop.getType() == 'time':
+              target = wiki.create_date(value)
+
+          # log if we fail to import statement
+          if not target:
+            remains[identifier]['meta'].append(statement)
+          else:
+            # create claim
+            claim = wiki.create_claim(prop.id)
+            claim.setTarget(target)
+            # support claim with article URL
+            wiki.add_source_url(claim, article['url'])
+            # add claim to item page
+            item_page.addClaim(claim, bot=True)
+
+          print(key, value, prop, prop.getType(), target)
 
     else:
       # log if we can't map property

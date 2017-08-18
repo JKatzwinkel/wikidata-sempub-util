@@ -416,5 +416,209 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q36951597"
+ },
+ "19": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Latvia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Латвия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1940er-1990er"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1940s-1990s"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1940-е - 1990-е"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-03-08"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-03-08"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-04-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Viktorija Eksta"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "sowjetisches Lettland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Riga"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Hercs Franks"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Andris Seleckis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ostland-Woche"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Latvijas hronika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Tukums Museum"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Wochenschau-Typologie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "lettische Dokumentaristen"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zensur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Latvia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Riga"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Tukums"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Hercs Franks"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ostland-Woche"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Latvijas hronika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " Tukums museum"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "newsreel typology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Latvian documentary filmmakers"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советская Латвия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Рига"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Тукумс"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Герц Франк"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ostland-Woche"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Padomju Latvija"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Latvijas hronika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "типология кинохроник"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "латышские документалисты"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "lv",
+  "articleType": "Articles",
+  "item_page": "Q37069684"
  }
 }

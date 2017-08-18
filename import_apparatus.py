@@ -7,7 +7,12 @@ import search
 from apparatus.convert import mappings
 
 # helper function for lookup
-exact_match=lambda r,s,l:r.get('match',{}).get('text','').lower() == s.lower()
+def exact_match(record, name, lang):
+  match = record.get('match', {})
+  if match.get('text', '').lower() == name.lower():
+    if match.get('language', '') == lang:
+      return True
+  return False
 
 # fetch first item matching name
 def lookup(name, lang):

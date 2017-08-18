@@ -11,7 +11,9 @@ from apparatus.convert import mappings
 def lookup(name, lang):
   results = search.lookup(name, lang=lang)
   results = results.get('search', [])
-  if len(results) > 0:
+  # only use results with exact matching labels
+  results = [r for r in results if r['label'].lower() == name.lower()]
+  if len(results) == 1:
     return wiki.item(results[0]['id'])
 
 # default statements:

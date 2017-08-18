@@ -8,6 +8,11 @@ from apparatus.convert import mappings
 metadata = json.load(open('apparatus/remains.json', 'r'))
 
 for identifier, article in metadata.items():
+
+  # check if article is already flagged as reviewed
+  if article.get('reviewed'):
+    continue
+
   table = []
   # register required fields
   header = ['name', 'content']

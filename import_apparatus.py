@@ -8,10 +8,11 @@ from apparatus.convert import mappings
 
 # helper function for lookup
 def exact_match(record, name, lang):
-  match = record.get('match', {})
-  if match.get('text', '').lower() == name.lower():
-    if match.get('language', '') == lang:
-      return True
+  if record.get('description', '') != 'Wikipedia disambiguation page':
+    match = record.get('match', {})
+    if match.get('text', '').lower() == name.lower():
+      if match.get('language', '') == lang:
+        return True
   return False
 
 # fetch first item matching name

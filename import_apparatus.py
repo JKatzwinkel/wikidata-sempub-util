@@ -19,9 +19,9 @@ def lookup(name, lang):
 # default statements:
 default_statements = {
     # published in apparatus
-    'P1433': 'Q30689463',
-    # instance of scientific article
-    'P31': 'Q13442814'
+    'P1433': ['Q30689463'],
+    # instance of scientific article, article
+    'P31': ['Q13442814', 'Q191067']
     }
 
 
@@ -51,13 +51,6 @@ for identifier, article in apparatus.items():
 
   print('processing resource # {} ({})'.format(identifier, lang))
 
-  # create record for failed properties
-  remains[identifier] = {
-      'meta' : []
-      }
-  for key in ['Language', 'articleType']:
-    remains[identifier][key] = article[key]
-
   # if item page is already assigned, use this item page to populate
   if 'item_page' in article:
     item_page = wiki.item(article['item_page'])
@@ -70,14 +63,25 @@ for identifier, article in apparatus.items():
 
     article['item_page'] = item_page.id
 
+  # create record for failed properties
+  remains[identifier] = {
+      'meta' : []
+      }
+  for key in ['Language', 'articleType']:
+    remains[identifier][key] = article[key]
   remains[identifier]['item_page'] = item_page.id
 
   # add default statements
-  for p, q in default_statements.items():
-    claim = wiki.create_claim(p)
-    target = wiki.item(q)
-    claim.setTarget(target)
-    item_page.addClaim(claim, bot=True)
+  for p, qq in default_statements.items():
+    for q in qq:
+      claim = wiki.create_claim(p)
+      target = wiki.item(q)
+      claim.setTarget(target)
+      item_page.addClaim(claim, bot=True)
+
+  # register all reified objects of statements using certain property
+  # in order to avoid identical statements to be made
+  related_entities = {}
 
   # iterate over DC metadata
   for statement in article['meta']:
@@ -137,19 +141,27 @@ for identifier, article in apparatus.items():
           else:
             try:
 
-              print('creating claim using property {}'.format(prop.id))
-              # create claim
-              claim = wiki.create_claim(prop.id)
-              print('claim {} about to have target set: {}'.format(claim, target))
-              claim.setTarget(target)
-              # support claim with article URL
-              #print('add source URL as a reference: {}'.format(article['url']))
-              #wiki.add_source_url(claim, article['url'])
-              # add claim to item page
-              print('add claim to item page {}'.format(item_page.id))
-              item_page.addClaim(claim, bot=True)
+              if not (type(target) == wiki._wiki.page.ItemPage and
+                  target in related_entities.get(prop.id, [])):
 
-              article['done'] = True
+                print('creating claim using property {}'.format(prop.id))
+                # create claim
+                claim = wiki.create_claim(prop.id)
+                print('claim {} about to have target set: {}'.format(claim, target))
+                claim.setTarget(target)
+                # add claim to item page
+                print('add claim to item page {}'.format(item_page.id))
+                item_page.addClaim(claim, bot=True)
+                # support claim with article URL
+                print('add source URL as a reference: {}'.format(article['url']))
+                wiki.add_source_url(claim, article['url'])
+
+                # if target is an item, register statement in order to avoid doubles
+                if type(target) == wiki._wiki.page.ItemPage:
+                  related_entities[prop.id] = related_entities.get(prop.id, []) + [target]
+
+              else:
+                print('target {} already used in statement with property {}.'.format(target.id, prop.id))
 
             except Exception as e:
 
@@ -164,6 +176,9 @@ for identifier, article in apparatus.items():
     else:
       # log if we can't map property
       remains[identifier]['meta'].append(statement)
+
+  # flag article as processed
+  article['done'] = True
 
   # add labels to item page
   item_page.editLabels(labels=labels, bot=True)

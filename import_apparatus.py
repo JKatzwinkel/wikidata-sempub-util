@@ -6,13 +6,15 @@ import wiki
 import search
 from apparatus.convert import mappings
 
+# helper function for lookup
+exact_match=lambda r,s,l:r.get('match',{}).get('text','').lower() == s.lower()
 
 # fetch first item matching name
 def lookup(name, lang):
   results = search.lookup(name, lang=lang)
   results = results.get('search', [])
   # only use results with exact matching labels
-  results = [r for r in results if r['label'].lower() == name.lower()]
+  results = [r for r in results if exact_match(r, name, lang)]
   if len(results) == 1:
     return wiki.item(results[0]['id'])
 

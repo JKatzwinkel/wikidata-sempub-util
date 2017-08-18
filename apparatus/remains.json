@@ -242,5 +242,179 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q36418404"
+ },
+ "5": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "2010-2015"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "2010-2015"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "2010-2015"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-06-15"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Mark Lipovetsky"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Moskau"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "trickster"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "tristar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Punk"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Performance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Patriarchismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Moscow"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "feminism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "trickster, trickstar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "punk"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "performance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "patriarchy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Москва"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "трикстер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "трикстар"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "панк"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "перформанс"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "патриархат"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q36951597"
  }
 }

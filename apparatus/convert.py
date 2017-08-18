@@ -69,8 +69,8 @@ mappings = {
     'DC.Type.articleType': {
       'property': 'P136', # genre
       'map': {
-        'Reviews': 'Q637866',
-        'Articles': 'Q213051'
+        'Reviews': 'Q637866', # book review
+        'Articles': None # don't use property
         }
       },
     'DC.Source': {},
@@ -80,5 +80,4 @@ mappings = {
 
 
   }
-
 

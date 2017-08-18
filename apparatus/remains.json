@@ -620,5 +620,219 @@
   "Language": "lv",
   "articleType": "Articles",
   "item_page": "Q37069684"
+ },
+ "3": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1920-1930"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1920-1930"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1920-1930"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-06-15"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Mario Slugan"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ėduard Tissé"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sergej Eisenstejn"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anatolij Golovnja"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Vsevolod Pudovkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Andrej Moskvin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Grigorij Kozincev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Danilo Demuc‘kij"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Oleksandr Dovženko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Granovskij"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Michail Kaufman"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kamera"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Sergei Eizenshtein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Anatolii Golovnia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Grigorii Kozintsev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Danilo Demuts’kii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Oleksandr Dovzhenko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aleksandr Granovskii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "avant-garde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinematography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cameraman"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Анатолий Головня"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Всеволод Пудовкин"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Данило Демуцький"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Олександр Довженко"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Грановский"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Михаил Кауфман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "авангард"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "оператор"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Philip Cavendish:  The Men with the Movie Camera. The Poetics of Visual Style in Soviet Avant-Garde Cinema of the 1920s "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q37071879"
  }
 }

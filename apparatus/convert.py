@@ -60,6 +60,10 @@ mappings = {
     'DC.Subject': {
       'property' : 'P921' # main subject
       },
+    'DC.Coverage.spatial': {
+        'property': 'P921', #main subject
+        'delimiter': ';'
+      },
     'DC.Identifier': {
       'property': 'P2322' # article ID
       },

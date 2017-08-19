@@ -1,0 +1,192 @@
+
+[Q36415251] http://www.wikidata.org/wiki/Q36415251 (uk, Articles)
+--------------------- | --------------------------------------------------- | ---- | --------
+name                  | content                                             | lang | scheme  
+--------------------- | --------------------------------------------------- | ---- | --------
+DC.Coverage.spatial   | USSR; Europe                                        | de   |         
+DC.Date.dateSubmitted | 2015-07-24                                          |      | ISO8601 
+DC.Date.modified      | 2015-07-24                                          |      | ISO8601 
+DC.Format             | text/html                                           |      | IMT     
+DC.Language           | uk                                                  |      | ISO639-1
+DC.Rights             | Copyright (c) 2015 Apparatus, Ol'ha Briukhovets'ka  |      |         
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus |      |         
+DC.Subject            | Sergej Paradžanov                                   | de   |         
+DC.Subject            | Sergii Paradzhanov                                  | en   |         
+DC.Subject            | aппарат                                             | ru   |         
+
+[Q36403083] http://www.wikidata.org/wiki/Q36403083 (en, Articles)
+--------------------- | ------------------------------------------------------------------------------------------------------------------- | ---- | -------
+name                  | content                                                                                                             | lang | scheme 
+--------------------- | ------------------------------------------------------------------------------------------------------------------- | ---- | -------
+DC.Coverage.spatial   | UdSSR                                                                                                               | de   |        
+DC.Coverage.spatial   | USSR                                                                                                                | en   |        
+DC.Coverage.temporal  | 1920er; 1930er                                                                                                      | de   |        
+DC.Coverage.temporal  | 1920s, 1930s                                                                                                        | en   |        
+DC.Date.dateSubmitted | 2015-07-24                                                                                                          |      | ISO8601
+DC.Date.modified      | 2015-10-14                                                                                                          |      | ISO8601
+DC.Format             | text/html                                                                                                           |      | IMT    
+DC.Rights             | Copyright (c) 2015 Apparatus, Adelheid Heftberger                                                                   |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus                                                                 |      |        
+DC.Subject            | Agitzug                                                                                                             | de   |        
+DC.Subject            | Kinozug                                                                                                             | de   |        
+DC.Subject            | film train                                                                                                          | en   |        
+DC.Title              | Propaganda in Motion. Dziga Vertov`s and Aleksandr Medvedkin`s Film Trains and Agit Steamers of the 1920s and 1930s |      |        
+
+[Q36418404] http://www.wikidata.org/wiki/Q36418404 (en, Articles)
+--------------------- | --------------------------------------------------- | ---- | -------
+name                  | content                                             | lang | scheme 
+--------------------- | --------------------------------------------------- | ---- | -------
+DC.Coverage.spatial   | Polen; UdSSR                                        | de   |        
+DC.Coverage.spatial   | Poland; USSR                                        | en   |        
+DC.Coverage.temporal  | 2. Hälfte 20. Jahrhundert                           | de   |        
+DC.Coverage.temporal  | 1970s; 1980s                                        | en   |        
+DC.Date.dateSubmitted | 2015-07-24                                          |      | ISO8601
+DC.Date.modified      | 2015-07-24                                          |      | ISO8601
+DC.Format             | text/html                                           |      | IMT    
+DC.Rights             | Copyright (c) 2015 Apparatus, Inke Arns             |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus |      |        
+DC.Subject            | Kollektive Aktionen                                 | de   |        
+DC.Subject            | Anatolij Žigalov                                    | de   |        
+DC.Subject            | Polnische Neo-Avantgarde                            | de   |        
+DC.Subject            | Kollektivnye deistviia                              | en   |        
+DC.Subject            | Andrei Monastyrskii                                 | en   |        
+DC.Subject            | Anatolii Zhigalov                                   | en   |        
+DC.Subject            | Polish neo-avant-garde                              | en   |        
+DC.Subject            | Moscow Conceptualism                                | en   |        
+DC.Subject            | КвеКулик                                            | ru   |        
+DC.Subject            | Зофья Кулик                                         | ru   |        
+DC.Subject            | Пжемыслав Квек                                      | ru   |        
+DC.Subject            | Оскар Хансен                                        | ru   |        
+DC.Subject            | Анатолий Жигалов                                    | ru   |        
+DC.Subject            | польский неоавангард                                | ru   |        
+
+[Q36951597] http://www.wikidata.org/wiki/Q36951597 (en, Articles)
+--------------------- | --------------------------------------------------- | ---- | -------
+name                  | content                                             | lang | scheme 
+--------------------- | --------------------------------------------------- | ---- | -------
+DC.Coverage.spatial   | Russland                                            | de   |        
+DC.Coverage.spatial   | Russia                                              | en   |        
+DC.Coverage.spatial   | Россия                                              | ru   |        
+DC.Coverage.temporal  | 2010-2015                                           | de   |        
+DC.Coverage.temporal  | 2010-2015                                           | en   |        
+DC.Coverage.temporal  | 2010-2015                                           | ru   |        
+DC.Date.created       | 2015-06-15                                          |      | ISO8601
+DC.Date.dateSubmitted | 2015-07-24                                          |      | ISO8601
+DC.Date.modified      | 2015-07-24                                          |      | ISO8601
+DC.Format             | text/html                                           |      | IMT    
+DC.Rights             | Copyright (c) 2015 Apparatus, Mark Lipovetsky       |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus |      |        
+DC.Subject            | Russland                                            | de   |        
+DC.Subject            | Moskau                                              | de   |        
+DC.Subject            | trickster                                           | de   |        
+DC.Subject            | tristar                                             | de   |        
+DC.Subject            | Punk                                                | de   |        
+DC.Subject            | Performance                                         | de   |        
+DC.Subject            | Patriarchismus                                      | de   |        
+DC.Subject            | Russia                                              | en   |        
+DC.Subject            | Moscow                                              | en   |        
+DC.Subject            | feminism                                            | en   |        
+DC.Subject            | trickster, trickstar                                | en   |        
+DC.Subject            | punk                                                | en   |        
+DC.Subject            | performance                                         | en   |        
+DC.Subject            | patriarchy                                          | en   |        
+DC.Subject            | Россия                                              | ru   |        
+DC.Subject            | Москва                                              | ru   |        
+DC.Subject            | трикстер                                            | ru   |        
+DC.Subject            | трикстар                                            | ru   |        
+DC.Subject            | панк                                                | ru   |        
+DC.Subject            | перформанс                                          | ru   |        
+DC.Subject            | патриархат                                          | ru   |        
+DC.Type.articleType   | Articles                                            |      |        
+
+[Q37069684] http://www.wikidata.org/wiki/Q37069684 (lv, Articles)
+--------------------- | --------------------------------------------------- | ---- | -------
+name                  | content                                             | lang | scheme 
+--------------------- | --------------------------------------------------- | ---- | -------
+DC.Coverage.spatial   | Latvia                                              | en   |        
+DC.Coverage.spatial   | Латвия                                              | ru   |        
+DC.Coverage.temporal  | 1940er-1990er                                       | de   |        
+DC.Coverage.temporal  | 1940s-1990s                                         | en   |        
+DC.Coverage.temporal  | 1940-е - 1990-е                                     | ru   |        
+DC.Date.created       | 2016-03-08                                          |      | ISO8601
+DC.Date.dateSubmitted | 2016-03-08                                          |      | ISO8601
+DC.Date.modified      | 2016-04-01                                          |      | ISO8601
+DC.Format             | text/html                                           |      | IMT    
+DC.Rights             | Copyright (c) 2016 Apparatus, Viktorija Eksta       |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus |      |        
+DC.Subject            | sowjetisches Lettland                               | de   |        
+DC.Subject            | Riga                                                | de   |        
+DC.Subject            | Hercs Franks                                        | de   |        
+DC.Subject            | Andris Seleckis                                     | de   |        
+DC.Subject            | Ostland-Woche                                       | de   |        
+DC.Subject            | Latvijas hronika                                    | de   |        
+DC.Subject            |  Tukums Museum                                      | de   |        
+DC.Subject            | Wochenschau-Typologie                               | de   |        
+DC.Subject            | lettische Dokumentaristen                           | de   |        
+DC.Subject            | Zensur                                              | de   |        
+DC.Subject            | Soviet Latvia                                       | en   |        
+DC.Subject            | Riga                                                | en   |        
+DC.Subject            | Tukums                                              | en   |        
+DC.Subject            | Hercs Franks                                        | en   |        
+DC.Subject            | Ostland-Woche                                       | en   |        
+DC.Subject            | Latvijas hronika                                    | en   |        
+DC.Subject            |  Tukums museum                                      | en   |        
+DC.Subject            | newsreel typology                                   | en   |        
+DC.Subject            | Latvian documentary filmmakers                      | en   |        
+DC.Subject            | Советская Латвия                                    | ru   |        
+DC.Subject            | Рига                                                | ru   |        
+DC.Subject            | Тукумс                                              | ru   |        
+DC.Subject            | Герц Франк                                          | ru   |        
+DC.Subject            | Ostland-Woche                                       | ru   |        
+DC.Subject            | Padomju Latvija                                     | ru   |        
+DC.Subject            | Latvijas hronika                                    | ru   |        
+DC.Subject            | типология кинохроник                                | ru   |        
+DC.Subject            | латышские документалисты                            | ru   |        
+DC.Type.articleType   | Articles                                            |      |        
+
+[Q37071879] http://www.wikidata.org/wiki/Q37071879 (en, Reviews)
+--------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | -------
+name                  | content                                                                                                                  | lang | scheme 
+--------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | -------
+DC.Coverage.spatial   | Sowjetunion                                                                                                              | de   |        
+DC.Coverage.spatial   | Soviet Union                                                                                                             | en   |        
+DC.Coverage.spatial   | Советский Союз                                                                                                           | ru   |        
+DC.Coverage.temporal  | 1920-1930                                                                                                                | de   |        
+DC.Coverage.temporal  | 1920-1930                                                                                                                | en   |        
+DC.Coverage.temporal  | 1920-1930                                                                                                                | ru   |        
+DC.Date.created       | 2015-06-15                                                                                                               |      | ISO8601
+DC.Date.dateSubmitted | 2015-07-24                                                                                                               |      | ISO8601
+DC.Date.modified      | 2015-07-24                                                                                                               |      | ISO8601
+DC.Format             | text/html                                                                                                                |      | IMT    
+DC.Rights             | Copyright (c) 2015 Apparatus, Mario Slugan                                                                               |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus                                                                      |      |        
+DC.Subject            | Ėduard Tissé                                                                                                             | de   |        
+DC.Subject            | Sergej Eisenstejn                                                                                                        | de   |        
+DC.Subject            | Anatolij Golovnja                                                                                                        | de   |        
+DC.Subject            | Vsevolod Pudovkin                                                                                                        | de   |        
+DC.Subject            | Andrej Moskvin                                                                                                           | de   |        
+DC.Subject            | Grigorij Kozincev                                                                                                        | de   |        
+DC.Subject            | Danilo Demuc‘kij                                                                                                         | de   |        
+DC.Subject            | Oleksandr Dovženko                                                                                                       | de   |        
+DC.Subject            | Aleksandr Granovskij                                                                                                     | de   |        
+DC.Subject            | Michail Kaufman                                                                                                          | de   |        
+DC.Subject            | Avantgarde                                                                                                               | de   |        
+DC.Subject            | Kamera                                                                                                                   | de   |        
+DC.Subject            | Sergei Eizenshtein                                                                                                       | en   |        
+DC.Subject            | Anatolii Golovnia                                                                                                        | en   |        
+DC.Subject            | Grigorii Kozintsev                                                                                                       | en   |        
+DC.Subject            | Danilo Demuts’kii                                                                                                        | en   |        
+DC.Subject            | Oleksandr Dovzhenko                                                                                                      | en   |        
+DC.Subject            | Aleksandr Granovskii                                                                                                     | en   |        
+DC.Subject            | avant-garde                                                                                                              | en   |        
+DC.Subject            | cinematography                                                                                                           | en   |        
+DC.Subject            | cameraman                                                                                                                | en   |        
+DC.Subject            | Анатолий Головня                                                                                                         | ru   |        
+DC.Subject            | Всеволод Пудовкин                                                                                                        | ru   |        
+DC.Subject            | Данило Демуцький                                                                                                         | ru   |        
+DC.Subject            | Олександр Довженко                                                                                                       | ru   |        
+DC.Subject            | Александр Грановский                                                                                                     | ru   |        
+DC.Subject            | Михаил Кауфман                                                                                                           | ru   |        
+DC.Subject            | авангард                                                                                                                 | ru   |        
+DC.Subject            | оператор                                                                                                                 | ru   |        
+DC.Title              | Philip Cavendish:  The Men with the Movie Camera. The Poetics of Visual Style in Soviet Avant-Garde Cinema of the 1920s  |      |        

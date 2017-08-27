@@ -834,5 +834,159 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q37071879"
+ },
+ "4": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Balkan"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": " Jugoslawien"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " Yugoslavia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Балканы"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": " Югославия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1830-2010"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1830-2010"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1830-2010"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Rastislava Mirković"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkan"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jugoslawien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkanismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Travelogue"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Malerei"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Philosophie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Yugoslavia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Balkanism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "travelogue"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "painting"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "folk art"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "philosophy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Балканы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Югославия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "философия"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Tanja Zimmermann:  Der Balkan zwischen Ost und West. Mediale Bilder und kulturpolitische Prägungen "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q38038341"
  }
 }

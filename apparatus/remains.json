@@ -1152,5 +1152,204 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q38038717"
+ },
+ "7": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1930-1940"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1930-1940"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1930-1940"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-07-03"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Language",
+    "scheme": "ISO639-1",
+    "content": "de"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Christian Pischel"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Stalin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Louis Hjelmslevs"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jeremija Joffe"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Dramaturgie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Szenarium"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Montage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "sowjetische Filmgeschichte 1930-1940"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Stalin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Louis Hjelmslevs"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Jeremija Joffe"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "dramaturgy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "scenario"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "montage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Film History 1930-1940"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Сталин"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иеремия Иоффе"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "драматургия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "сценарий"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "монтаж"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "история советского кино 1930-40-х гг"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Anke Hennig:  Sowjetische Kinodramaturgien. Konfliktlinien zwischen Literatur und Film in der Sowjetunion "
+   }
+  ],
+  "Language": "de",
+  "articleType": "Reviews",
+  "item_page": "Q38048128"
  }
 }

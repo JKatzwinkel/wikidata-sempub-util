@@ -988,5 +988,169 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q38038341"
+ },
+ "6": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1920-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1920-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1920-1970"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-06-20"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Anna Karpusheva"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Agitprop"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tauwetter"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "sowjetische Geschichte 1920-1970"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "avant-garde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "agitprop"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Thaw"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet History 1920-1970"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "революция"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "авангард"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "агитпроп"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вторая мировая война"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "оттепель"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "советская история 1920-1970-х гг."
+   },
+   {
+    "name": "DC.Title",
+    "content": "Evgenii Margolit:  Zhivye i mёrtvoe. Zametki k istorii sovetskogo kino 1920-1960kh "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q38038717"
  }
 }

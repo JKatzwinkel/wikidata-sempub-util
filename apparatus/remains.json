@@ -1570,5 +1570,144 @@
   "Language": "ru",
   "articleType": "Reviews",
   "item_page": "Q38048532"
+ },
+ "51": {
+  "meta": [
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": "The Baron Friedrich Carl von Oppenheim Chair for the Study of Racism, Antisemitism, and the Holocaust, founded by the von Oppenheim Family of Cologne"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-04-30"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-11-02"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmmaterial"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Archivbild"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Visuelle Erinnerung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Historiographie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "footage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive image"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "historiography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фильм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киноматериалы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архив"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архивное изображение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "визуальная память"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "историография."
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q38049576"
  }
 }

@@ -1863,5 +1863,204 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q38051027"
+ },
+ "73": {
+  "meta": [
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": " Deutsche Forschungsgemeinschaft"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-04-30"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Paul Dunant"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Otto Lehner"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Czernin-Palast"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "1945"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Premiere"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Publikum;"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Paul Dunant"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Otto Lehner"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czernin palace"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "1945"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "International Committee of the Red Cross (ICRC)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "premiere"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "audiences;"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Поль Дюнан"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Отто Ленер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Эрвин Вайнман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "1945"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Международный комитет Красного Креста (МККК)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фильмография Терезиенштадта"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "премьера"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "зрители"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Фюрер дарит евреям город"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост;"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q38056798"
  }
 }

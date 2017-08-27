@@ -1709,5 +1709,159 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q38049576"
+ },
+ "54": {
+  "meta": [
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-04-30"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-11-14"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jindrich Weil"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anton Burger"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aktualita"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "NS-Film-Propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmstudien zum Holocaust."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Jindřich Weil"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Anton Burger"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Karl Rahm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ivan Frič"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghetto Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aktualita"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Nazi film propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust film studies."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Йиндржих Вайль"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Антон Бургер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Карл Рам"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иван Фрич"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт. Документальный фильм из еврейского поселения"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Aktualita"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "нацистская кинопропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киноисследования Холокоста."
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q38051027"
  }
 }

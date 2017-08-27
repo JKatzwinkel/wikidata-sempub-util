@@ -1351,5 +1351,224 @@
   "Language": "de",
   "articleType": "Reviews",
   "item_page": "Q38048128"
+ },
+ "8": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1915-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1915-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1915-1970"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Georgii Borodin"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Pyr’ev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Vladislav Tvardovskij"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Zarchi"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Rou"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Valentina und Zinaida Brumberg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ptuško"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Medvedkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Elizaveta Svilova"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ivan und Vladimir Nikitčenko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Festival"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Gosfil’mofond"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Vladislav Tvardovskii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aleksandr Rou"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Valentina & Zinaida Brumberg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ptushko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Pyr’ev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Medvedkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Elizaveta Svilova"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ivan & Vladimir Nikitchenko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "festival"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Gosfil’mofond"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Владислав Твардовский"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Роу"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Елизавета Свилова"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иван и Владимир Никитченко"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фестиваль"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архив"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Title",
+    "content": "XIX festival' arkhivnogo kino  Belye Stolby "
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Reviews",
+  "item_page": "Q38048532"
  }
 }

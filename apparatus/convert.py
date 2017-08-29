@@ -74,7 +74,8 @@ mappings = {
       'property': 'P136', # genre
       'map': {
         'Reviews': 'Q637866', # book review
-        'Articles': None # don't use property
+        'Articles': None, # don't use property
+        'Editorial': 'Q871232' # editorial
         }
       },
     'DC.Source': {},

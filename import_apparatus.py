@@ -37,7 +37,7 @@ default_statements = {
 # if article ids are passed as command line arguments, we only process those articles
 selected_keys = argv[1:] if len(argv) > 1 else None
 if selected_keys:
-  print('about to import article{} '.format('s' if len(selected_keys)>1 else ''),
+  print('about to import article{}'.format('s' if len(selected_keys)>1 else ''),
       ', '.join(selected_keys))
 
 
@@ -55,7 +55,8 @@ for identifier in selected_keys or apparatus.keys():
   article = apparatus.get(identifier)
   # use only reviews and articles (which is almost everything)
   # and only resources that have not been imported yet
-  if not article or article['articleType'] not in ['Reviews', 'Articles'] or article.get('done'):
+  #if not article or article['articleType'] not in ['Reviews', 'Articles'] or article.get('done'):
+  if not article or article.get('done'):
     continue
 
   cnt += 1

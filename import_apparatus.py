@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import json
+from sys import argv
 
 import wiki
 import search
@@ -33,6 +34,13 @@ default_statements = {
     }
 
 
+# if article ids are passed as command line arguments, we only process those articles
+selected_keys = argv[1:] if len(argv) > 1 else None
+if selected_keys:
+  print('about to import article{} '.format('s' if len(selected_keys)>1 else ''),
+      ', '.join(selected_keys))
+
+
 # load corpus
 apparatus = json.load(open('apparatus/corpus.json', 'r'))
 
@@ -43,14 +51,15 @@ except:
   remains = {}
 
 cnt = 0
-for identifier, article in apparatus.items():
+for identifier in selected_keys or apparatus.keys():
+  article = apparatus.get(identifier)
   # use only reviews and articles (which is almost everything)
   # and only resources that have not been imported yet
-  if article['articleType'] not in ['Reviews', 'Articles'] or article.get('done'):
+  if not article or article['articleType'] not in ['Reviews', 'Articles'] or article.get('done'):
     continue
 
   cnt += 1
-  if cnt > 1:
+  if cnt > 1 and not selected_keys:
     break
 
   # extract lang

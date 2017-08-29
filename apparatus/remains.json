@@ -2062,5 +2062,164 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q38056798"
+ },
+ "34": {
+  "meta": [
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1939-45"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-08"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-05-10"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-10"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Natascha Drubek"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Dodalová"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Lanzmann"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghettofilm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Der ewige Jude"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Kulmhof"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Dodalová"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Lanzmann"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Murmelstein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "конопропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Додалова"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ланцманн"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Мурмельштайн"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Editorial"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Editorial",
+  "item_page": "Q38110802"
  }
 }

@@ -17,7 +17,7 @@ for qid, dat in proven.items():
           target = claim.getTarget()
           if target.id in dat.get('properties', {}).get(pid, []):
             print(target.id, pid, qid)
-            wiki.add_source_url(claim, itempage=target)
+            wiki.add_source_url(claim, prove)
             sys.exit(0)
 
 

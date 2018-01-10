@@ -46,6 +46,11 @@ allerdings haben wir ein problem mit XML namespace und muessen aus der json-date
 dann muessen wir uns fuer jeden artikel noch die DOI beschaffen die aber nur auf der abstract-webseite steht. 
 Von jeder DOI entfernen wir jeweils den prefix `http://dx.doi.org/`.
 
+Komischerweise fehlt nach einigermaszen erfolgreicher extraktion das feld `DC.Source.DOI` ueberall im gegensatz zu frueher.
+Musz man halt hardcoden ist ja nicht so schlimm.
+
+Nerviger ist das problem mit der ISO639-1 violaten in sprachangaben zu ukrainisch weil da immer `ukr` benutzt wird was aber ja falsch ist und natuerlich auch nicht funktionieren kann. Das musz man dann auch nochmal mit einem `sed` aufruf zb ausbuegeln.
+
 
 
 #### bibliographische metadaten nach wikidata hochladen

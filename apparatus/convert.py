@@ -1,6 +1,6 @@
 
 
-# map properties to DC fieldsand item pages to property values
+# map properties to DC fields and item pages to property values
 mappings = {
     'Language': {
       'property': 'P364',
@@ -11,7 +11,8 @@ mappings = {
         'lv': 'Q9078',
         'pl': 'Q809',
         'ru': 'Q7737',
-        'uk': 'Q8798'
+        'uk': 'Q8798',
+        'de': 'Q188'
         }
       },
     'DC.Source.DOI': {
@@ -26,7 +27,8 @@ mappings = {
         'lv': 'Q9078',
         'pl': 'Q809',
         'ru': 'Q7737',
-        'ukr': 'Q8798'
+        'uk': 'Q8798',
+        'de': 'Q188'
         }
       },
     'DC.Identifier.URI': {

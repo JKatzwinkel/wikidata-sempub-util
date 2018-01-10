@@ -13,8 +13,8 @@ def exact_match(record, name, lang):
   if record.get('description', '') != 'Wikipedia disambiguation page':
     match = record.get('match', {})
     if match.get('text', '').lower() == name.lower():
-      if match.get('language', '') == lang:
-        return True
+    #if match.get('language', '') == lang:
+      return True
   return False
 
 # try and retrieve wikidata item by name search
@@ -171,7 +171,7 @@ for identifier in selected_keys or apparatus.keys():
           # log if we fail to import statement
           if not target:
             remains[identifier]['meta'].append(split_statement)
-            print('could not import statement:', split_statement)
+            print(' !! could not import statement:', split_statement)
           else:
             try:
 
@@ -188,7 +188,8 @@ for identifier in selected_keys or apparatus.keys():
                 item_page.addClaim(claim, bot=True)
                 # support claim with article URL
                 print('add source URL as a reference: {}'.format(article['url']))
-                wiki.add_source_url(claim, article['url'])
+                wiki.add_source_url(claim, article['url']
+                print('success!\n')
 
                 # if target is an item, register statement in order to avoid doubles
                 if type(target) == wiki._wiki.page.ItemPage:
@@ -199,8 +200,8 @@ for identifier in selected_keys or apparatus.keys():
 
             except Exception as e:
 
-              print('error: {}'.format(e))
-              print('could not import statement {}'.format(split_statement))
+              print(' !! error: {}'.format(e))
+              print('    could not import statement {}'.format(split_statement))
               remains[identifier]['meta'].append(split_statement)
 
 

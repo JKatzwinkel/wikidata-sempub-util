@@ -19,15 +19,16 @@ for r in tree.findall('resource'):
     idfield = r.find('./meta[@name="DC.Identifier"]')
     identifier = idfield.attrib['content']
 
-    author = r.find('./meta[@name="DC.Creator.PersonalName"]')
-    if author:
-        author = author.attrib['content']
+    authorfields = r.findall('./meta[@name="DC.Creator.PersonalName"]')
+    authors = [a.attrib['content'] for a in authorfields]
+
 
     # try to use metadata records from existing json file if possible
-    record = metadata.get(identifier, {'id': identifier, 'url': url, 'author': author})
+    record = metadata.get(identifier, {'id': identifier, 'url': url})
     # put some extra fields in there for multiple utilization of values
-    record['meta'] = [{"name": "P953", "content": url},
-            {"name": "P50", "content": author}]
+    record['meta'] = [{"name": "P953", "content": url}]
+    for author in authors:
+        record['meta'].append({"name": "P50", "content": author})
 
     # copy metadata
     for e in r.getchildren():

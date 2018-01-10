@@ -2,6 +2,7 @@
 
 import json
 from sys import argv
+import re
 
 import wiki
 import search
@@ -132,7 +133,7 @@ for identifier in selected_keys or apparatus.keys():
         print('use property {}'.format(prop))
         # see if we need to split value string
         if 'delimiter' in mappings[key]:
-          values = value.split(mappings[key]['delimiter'])
+          values = re.split(mappings[key]['delimiter'], value)
         else:
           values = [value]
 

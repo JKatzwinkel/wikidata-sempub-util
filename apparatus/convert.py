@@ -65,11 +65,11 @@ mappings = {
       },
     'DC.Coverage.spatial': {
         'property': 'P921', #main subject
-        'delimiter': ';'
+        'delimiter': '[,;]'
       },
      'DC.Coverage.temporal': {
         'property': 'P921', #main subject
-        'delimiter': ';'
+        'delimiter': '[,;]'
       },
     'DC.Identifier': {
       'property': 'P2322' # article ID

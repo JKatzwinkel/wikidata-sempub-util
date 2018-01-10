@@ -153,6 +153,7 @@ for identifier in selected_keys or apparatus.keys():
           # if values have a direct mapping to wikidata items, use those
           if 'map' in mappings[key]:
             qid = mappings[key]['map'].get(value)
+            print('mapping {} --> {} '.format(value, qid))
             if qid:
               target = wiki.item(qid)
             else:
@@ -188,8 +189,8 @@ for identifier in selected_keys or apparatus.keys():
                 item_page.addClaim(claim, bot=True)
                 # support claim with article URL
                 print('add source URL as a reference: {}'.format(article['url']))
-                wiki.add_source_url(claim, article['url']
-                print('success!\n')
+                wiki.add_source_url(claim, article['url'])
+                print(' --> success!\n')
 
                 # if target is an item, register statement in order to avoid doubles
                 if type(target) == wiki._wiki.page.ItemPage:
@@ -203,10 +204,12 @@ for identifier in selected_keys or apparatus.keys():
               print(' !! error: {}'.format(e))
               print('    could not import statement {}'.format(split_statement))
               remains[identifier]['meta'].append(split_statement)
+              print(' xxx failure\n')
 
 
 
-          print(key, value, prop, prop.getType(), target)
+
+          print('     (((', key, value, prop, prop.getType(), target, ')))   ')
 
     else:
       # log if we can't map property

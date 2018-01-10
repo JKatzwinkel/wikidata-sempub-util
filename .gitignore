@@ -1,0 +1,8 @@
+user-config.py
+pywikibot.lwp
+throttle.ctrl
+apicache/
+apicache-py3/
+__pycache__/
+*.bck
+apparatus/test.xml

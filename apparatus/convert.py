@@ -38,6 +38,9 @@ mappings = {
     'DC.Creator.PersonalName': {
       'property': 'P2093' # author name string
       },
+    'P50': {
+      'property': 'P50' # author
+      },
     'DC.Source.Volume': {
       'property': 'P478' # volume
       },
@@ -81,7 +84,8 @@ mappings = {
     'DC.Source': {},
     'DC.Source.ISSN': {},
     'DC.Type': {},
-    'DC.Title.Alternative': {}
+    'DC.Title.Alternative': {},
+    'DC.Description': {}
 
 
   }

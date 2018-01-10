@@ -16,12 +16,13 @@ def exact_match(record, name, lang):
         return True
   return False
 
-# fetch first item matching name
+# try and retrieve wikidata item by name search
 def lookup(name, lang):
   results = search.lookup(name, lang=lang)
   results = results.get('search', [])
   # only use results with exact matching labels
   results = [r for r in results if exact_match(r, name, lang)]
+  # only use result if there is only a single one left (no ambiguity)
   if len(results) == 1:
     return wiki.item(results[0]['id'])
 
@@ -29,8 +30,8 @@ def lookup(name, lang):
 default_statements = {
     # published in apparatus
     'P1433': ['Q30689463'],
-    # instance of scientific article, article
-    'P31': ['Q13442814', 'Q191067']
+    # instance of academic journal article
+    'P31': ['Q18918145']
     }
 
 
@@ -59,6 +60,7 @@ for identifier in selected_keys or apparatus.keys():
   if not article or article.get('done'):
     continue
 
+  # after ingestion of 1 article, we stop
   cnt += 1
   if cnt > 1 and not selected_keys:
     break
@@ -66,6 +68,7 @@ for identifier in selected_keys or apparatus.keys():
   # extract lang
   lang = article['Language']
   labels = {}
+  descriptions = {}
 
   print('processing resource # {} ({})'.format(identifier, lang))
 
@@ -96,6 +99,8 @@ for identifier in selected_keys or apparatus.keys():
       target = wiki.item(q)
       claim.setTarget(target)
       item_page.addClaim(claim, bot=True)
+      #provide proof!!!
+      wiki.add_source_url(claim, article['url'])
 
   # register all reified objects of statements using certain property
   # in order to avoid identical statements to be made
@@ -112,6 +117,9 @@ for identifier in selected_keys or apparatus.keys():
     elif key == 'DC.Title.Alternative':
       if 'lang' in statement:
         labels[statement['lang']] = value
+    elif key == 'DC.Description':
+      if 'lang' in statement:
+        descriptions[statement['lang']] = value
 
     # handle mapped DC properties
     if key in mappings:
@@ -146,6 +154,8 @@ for identifier in selected_keys or apparatus.keys():
           else:
             # reify targets if property expects wikidata item of date
             if prop.type == 'wikibase-item':
+              # issue a search for items matching the string, use result if there is only one candidate
+              # use english if field has no language qualifier
               target = lookup(value, statement.get('lang', 'en'))
             elif prop.type == 'time':
               target = wiki.create_date(value)
@@ -198,8 +208,10 @@ for identifier in selected_keys or apparatus.keys():
   # flag article as processed
   article['done'] = True
 
-  # add labels to item page
+  # add labels and descriptions to item page
   item_page.editLabels(labels=labels, bot=True)
+  item_page.editDescriptions(descriptions=descriptions, bot=True)
+
 
   print(labels)
   print()

@@ -43,6 +43,9 @@ if [[ $(fileage corpus.xml) -gt 300 ]]; then
 	#cat corpus.xml | grep -v "DC\.Description" > corpus.bck
 	#mv corpus.bck corpus.xml
 
+	# make sure there is no ISO639-1 violation where lang=ukr
+	sed -i 's/\(ISO639-1.*\)ukr/\1uk/' corpus.xml
+
 fi
 
 

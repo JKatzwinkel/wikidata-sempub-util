@@ -74,10 +74,15 @@ for identifier in selected_keys or apparatus.keys():
   print('processing resource # {} ({})'.format(identifier, lang))
 
   # if item page is already assigned, use this item page to populate
+  item_page = None
   if 'item_page' in article:
     item_page = wiki.item(article['item_page'])
     print('loaded item page ', item_page)
-  else:
+    if not item_page.exists():
+      del article['item_page']
+      item_page = None
+
+  if not item_page:
     # otherwise, create itempage
     item_page = wiki.create_item()
     article['item_page'] = item_page.id
@@ -120,7 +125,7 @@ for identifier in selected_keys or apparatus.keys():
         labels[statement['lang']] = value
     elif key == 'DC.Description':
       if 'lang' in statement:
-        descriptions[statement['lang']] = value
+        descriptions[statement['lang']] = ' '.join(re.split('\s+', value))
 
     # handle mapped DC properties
     if key in mappings:

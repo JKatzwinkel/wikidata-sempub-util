@@ -67,6 +67,10 @@ mappings = {
         'property': 'P921', #main subject
         'delimiter': ';'
       },
+     'DC.Coverage.temporal': {
+        'property': 'P921', #main subject
+        'delimiter': ';'
+      },
     'DC.Identifier': {
       'property': 'P2322' # article ID
       },

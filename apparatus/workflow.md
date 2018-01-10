@@ -44,6 +44,7 @@ wir sollten ein json-object bekommen wo alles drinsteht was wir brauchen.
 allerdings haben wir ein problem mit XML namespace und muessen aus der json-datei noch den ns-zusatz `{http://www.w3.org/XML/1998/namespace}` rausgreppen.
 
 dann muessen wir uns fuer jeden artikel noch die DOI beschaffen die aber nur auf der abstract-webseite steht. 
+Von jeder DOI entfernen wir jeweils den prefix `http://dx.doi.org/`.
 
 
 

@@ -137,7 +137,8 @@
   ],
   "doi": "10.17892/app.2015.0001.11",
   "Language": "de",
-  "articleType": "Editorial"
+  "articleType": "Editorial",
+  "done": true
  },
  "2": {
   "item_page": "Q36403083",
@@ -4481,6 +4482,7 @@
  },
  "17": {
   "id": "17",
+  "done": true,
   "url": "http://www.apparatusjournal.net/index.php/apparatus/article/view/17/81",
   "meta": [
    {
@@ -4745,7 +4747,8 @@
   ],
   "doi": "10.17892/app.2016.0002.17",
   "Language": "en",
-  "articleType": "Articles"
+  "articleType": "Articles",
+  "item_page": "Q47182085"
  },
  "28": {
   "id": "28",

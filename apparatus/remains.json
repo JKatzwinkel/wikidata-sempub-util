@@ -2221,5 +2221,48 @@
   "Language": "en",
   "articleType": "Editorial",
   "item_page": "Q38110802"
+ },
+ "11": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Anke Hennig"
+   },
+   {
+    "name": "P50",
+    "content": "Irina Sandomirskaja"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-08-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-08-02"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-08-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Natascha Drubek, Anke Hennig, Irina Sandomirskaja"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   }
+  ],
+  "Language": "de",
+  "articleType": "Editorial",
+  "item_page": "Q47161816"
  }
 }

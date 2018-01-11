@@ -3,7 +3,7 @@
 # map properties to DC fields and item pages to property values
 mappings = {
     'Language': {
-      'property': 'P364',
+      'property': 'P407',
       # map ISO639-1 language codes to corresponding wikidata item pages
       'map': {
         'cs': 'Q9056',
@@ -19,7 +19,7 @@ mappings = {
       'property': 'P356'
       },
     'DC.Language': {
-      'property': 'P364',
+      'property': 'P407',
       # map ISO639-1 language codes to corresponding wikidata item pages
       'map': {
         'cs': 'Q9056',
@@ -32,7 +32,7 @@ mappings = {
         }
       },
     'DC.Identifier.URI': {
-      'property': 'P854' # reference URL
+      'property': 'P856' # official website
       },
     'P953': {
       'property' : 'P953' # full work available

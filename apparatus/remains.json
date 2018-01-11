@@ -2264,5 +2264,173 @@
   "Language": "de",
   "articleType": "Editorial",
   "item_page": "Q47161816"
+ },
+ "28": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Eva Strusková"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-04-27"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Eva Strusková"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Kurt Gerron"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Michael Bornkamp"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Přemysl Schönbach"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Prag"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Security Services Archive (früheres StB Archiv)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust-Filmstudien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmarchive"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Michael Bornkamp"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Přemysl Schönbach"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Prague"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghetto Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Security Services Archive (former StB Archive)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust film studies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ирена Додалова"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Михаэль Борнкмп"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Пржемысл Шёнбах"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Прага"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Aрхив служб безопасности (бывший архив StB)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "гетто Терезаиенштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киноархивы"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q47183303"
  }
 }

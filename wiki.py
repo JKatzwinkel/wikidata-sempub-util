@@ -4,6 +4,7 @@ import re as _re
 from datetime import datetime
 
 import pywikibot as _wiki
+print(_wiki.__version__)
 
 from SPARQLWrapper import SPARQLWrapper, JSON
 

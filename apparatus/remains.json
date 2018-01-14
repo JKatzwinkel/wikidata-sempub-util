@@ -2432,5 +2432,138 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q47183303"
+ },
+ "29": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Tomáš Fedorovič"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-04-29"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Tomáš Fedorovič"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "cs",
+    "content": "Topografie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "cs",
+    "content": "Himmler, film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "cs",
+    "content": "návštěva MVČK"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "cs",
+    "content": "propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "cs",
+    "content": "prominenti"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Himmler"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Prominente"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Topography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Himmler"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "visit of ICRC"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "VIPs"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "МККК"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "пропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "знаменитости"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "cs",
+  "articleType": "Articles",
+  "item_page": "Q47206449"
  }
 }

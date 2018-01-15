@@ -1,0 +1,94 @@
+ 
+
+[Q36951597] http://www.wikidata.org/wiki/Q36951597 (en, Articles)
+--------------------- | --------------------------------------------------- | ---- | -------
+name                  | content                                             | lang | scheme 
+--------------------- | --------------------------------------------------- | ---- | -------
+DC.Coverage.temporal  | 2010-2015                                           | de   |        
+DC.Coverage.temporal  | 2010-2015                                           | en   |        
+DC.Coverage.temporal  | 2010-2015                                           | ru   |        
+DC.Date.created       | 2015-06-15                                          |      | ISO8601
+DC.Date.dateSubmitted | 2015-07-24                                          |      | ISO8601
+DC.Date.modified      | 2015-07-24                                          |      | ISO8601
+DC.Format             | text/html                                           |      | IMT    
+DC.Rights             | Copyright (c) 2015 Apparatus, Mark Lipovetsky       |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus |      |        
+DC.Type.articleType   | Articles                                            |      |        
+
+[Q37069684] http://www.wikidata.org/wiki/Q37069684 (lv, Articles)
+--------------------- | --------------------------------------------------- | ---- | -------
+name                  | content                                             | lang | scheme 
+--------------------- | --------------------------------------------------- | ---- | -------
+DC.Coverage.spatial   | Latvia                                              | en   |        
+DC.Coverage.spatial   | Латвия                                              | ru   |        
+DC.Coverage.temporal  | 1940er-1990er                                       | de   |        
+DC.Coverage.temporal  | 1940s-1990s                                         | en   |        
+DC.Coverage.temporal  | 1940-е - 1990-е                                     | ru   |        
+DC.Date.created       | 2016-03-08                                          |      | ISO8601
+DC.Date.dateSubmitted | 2016-03-08                                          |      | ISO8601
+DC.Date.modified      | 2016-04-01                                          |      | ISO8601
+DC.Format             | text/html                                           |      | IMT    
+DC.Rights             | Copyright (c) 2016 Apparatus, Viktorija Eksta       |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus |      |        
+DC.Subject            | sowjetisches Lettland                               | de   |        
+DC.Subject            | Riga                                                | de   |        
+DC.Subject            | Hercs Franks                                        | de   |        
+DC.Subject            | Andris Seleckis                                     | de   |        
+DC.Subject            | Ostland-Woche                                       | de   |        
+DC.Subject            | Latvijas hronika                                    | de   |        
+DC.Subject            |  Tukums Museum                                      | de   |        
+DC.Subject            | Wochenschau-Typologie                               | de   |        
+DC.Subject            | lettische Dokumentaristen                           | de   |        
+DC.Subject            | Zensur                                              | de   |        
+DC.Subject            | Soviet Latvia                                       | en   |        
+DC.Subject            | Riga                                                | en   |        
+DC.Subject            | Tukums                                              | en   |        
+DC.Subject            | Hercs Franks                                        | en   |        
+DC.Subject            | Ostland-Woche                                       | en   |        
+DC.Subject            | Latvijas hronika                                    | en   |        
+DC.Subject            |  Tukums museum                                      | en   |        
+DC.Subject            | newsreel typology                                   | en   |        
+DC.Subject            | Latvian documentary filmmakers                      | en   |        
+DC.Subject            | Советская Латвия                                    | ru   |        
+DC.Subject            | Рига                                                | ru   |        
+DC.Subject            | Тукумс                                              | ru   |        
+DC.Subject            | Герц Франк                                          | ru   |        
+DC.Subject            | Ostland-Woche                                       | ru   |        
+DC.Subject            | Padomju Latvija                                     | ru   |        
+DC.Subject            | Latvijas hronika                                    | ru   |        
+DC.Subject            | типология кинохроник                                | ru   |        
+DC.Subject            | латышские документалисты                            | ru   |        
+DC.Type.articleType   | Articles                                            |      |        
+
+[Q37071879] http://www.wikidata.org/wiki/Q37071879 (en, Reviews)
+--------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | -------
+name                  | content                                                                                                                  | lang | scheme 
+--------------------- | ------------------------------------------------------------------------------------------------------------------------ | ---- | -------
+DC.Coverage.temporal  | 1920-1930                                                                                                                | de   |        
+DC.Coverage.temporal  | 1920-1930                                                                                                                | en   |        
+DC.Coverage.temporal  | 1920-1930                                                                                                                | ru   |        
+DC.Date.created       | 2015-06-15                                                                                                               |      | ISO8601
+DC.Date.dateSubmitted | 2015-07-24                                                                                                               |      | ISO8601
+DC.Date.modified      | 2015-07-24                                                                                                               |      | ISO8601
+DC.Format             | text/html                                                                                                                |      | IMT    
+DC.Rights             | Copyright (c) 2015 Apparatus, Mario Slugan                                                                               |      |        
+DC.Source.URI         | http://www.apparatusjournal.net/index.php/apparatus                                                                      |      |        
+DC.Subject            | Anatolij Golovnja                                                                                                        | de   |        
+DC.Subject            | Danilo Demuc‘kij                                                                                                         | de   |        
+DC.Subject            | Oleksandr Dovženko                                                                                                       | de   |        
+DC.Subject            | Aleksandr Granovskij                                                                                                     | de   |        
+DC.Subject            | Avantgarde                                                                                                               | de   |        
+DC.Subject            | Kamera                                                                                                                   | de   |        
+DC.Subject            | Anatolii Golovnia                                                                                                        | en   |        
+DC.Subject            | Danilo Demuts’kii                                                                                                        | en   |        
+DC.Subject            | Oleksandr Dovzhenko                                                                                                      | en   |        
+DC.Subject            | Aleksandr Granovskii                                                                                                     | en   |        
+DC.Subject            | avant-garde                                                                                                              | en   |        
+DC.Subject            | cinematography                                                                                                           | en   |        
+DC.Subject            | cameraman                                                                                                                | en   |        
+DC.Subject            | Анатолий Головня                                                                                                         | ru   |        
+DC.Subject            | Данило Демуцький                                                                                                         | ru   |        
+DC.Subject            | Олександр Довженко                                                                                                       | ru   |        
+DC.Subject            | Александр Грановский                                                                                                     | ru   |        
+DC.Subject            | авангард                                                                                                                 | ru   |        
+DC.Subject            | оператор                                                                                                                 | ru   |        

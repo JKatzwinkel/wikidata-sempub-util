@@ -26,15 +26,15 @@ def create_claim(pid, isReference=False):
   """ Pass property identifier string (P...) """
   return _wiki.Claim(repo, pid, isReference=isReference)
 
-def add_source_url(claim, url):
+def add_source_url(claim, source):
   """ Adds given URL as a reference for specified claim and adds current date as reference as well. """
-  source_claim = create_claim('P854', isReference=True)
-  source_claim.setTarget(url)
-  #now = datetime.now()
-  #source_date = _wiki.WbTime(year=now.year, month=now.month, day=now.day)
-  #date_claim = create_claim('P813', isReference=True)
-  #date_claim.setTarget(source_date)
-  claim.addSources([source_claim], bot=True)
+  source_claim = create_claim('P248' if type(source) == _wiki.page.ItemPage else 'P854', isReference=True)
+  source_claim.setTarget(source)
+  now = datetime.now()
+  source_date = _wiki.WbTime(year=now.year, month=now.month, day=now.day)
+  date_claim = create_claim('P813', isReference=True)
+  date_claim.setTarget(source_date)
+  claim.addSources([source_claim, date_claim], bot=True)
 
 def create_date(date):
   """ give date in format: 'YYYY-MM-DD' """

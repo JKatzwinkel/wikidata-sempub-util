@@ -242,5 +242,1984 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q36418404"
+ },
+ "5": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "2010-2015"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "2010-2015"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "2010-2015"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-06-15"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Mark Lipovetsky"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Moskau"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "trickster"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "tristar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Punk"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Performance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Patriarchismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Moscow"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "feminism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "trickster, trickstar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "punk"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "performance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "patriarchy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Москва"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "трикстер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "трикстар"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "панк"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "перформанс"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "патриархат"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q36951597"
+ },
+ "19": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Latvia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Латвия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1940er-1990er"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1940s-1990s"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1940-е - 1990-е"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-03-08"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-03-08"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-04-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Viktorija Eksta"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "sowjetisches Lettland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Riga"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Hercs Franks"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Andris Seleckis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ostland-Woche"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Latvijas hronika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Tukums Museum"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Wochenschau-Typologie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "lettische Dokumentaristen"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zensur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Latvia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Riga"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Tukums"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Hercs Franks"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ostland-Woche"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Latvijas hronika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " Tukums museum"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "newsreel typology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Latvian documentary filmmakers"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советская Латвия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Рига"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Тукумс"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Герц Франк"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ostland-Woche"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Padomju Latvija"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Latvijas hronika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "типология кинохроник"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "латышские документалисты"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "lv",
+  "articleType": "Articles",
+  "item_page": "Q37069684"
+ },
+ "3": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1920-1930"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1920-1930"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1920-1930"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-06-15"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Mario Slugan"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ėduard Tissé"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sergej Eisenstejn"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anatolij Golovnja"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Vsevolod Pudovkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Andrej Moskvin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Grigorij Kozincev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Danilo Demuc‘kij"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Oleksandr Dovženko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Granovskij"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Michail Kaufman"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kamera"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Sergei Eizenshtein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Anatolii Golovnia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Grigorii Kozintsev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Danilo Demuts’kii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Oleksandr Dovzhenko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aleksandr Granovskii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "avant-garde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinematography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cameraman"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Анатолий Головня"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Всеволод Пудовкин"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Данило Демуцький"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Олександр Довженко"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Грановский"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Михаил Кауфман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "авангард"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "оператор"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Philip Cavendish:  The Men with the Movie Camera. The Poetics of Visual Style in Soviet Avant-Garde Cinema of the 1920s "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q37071879"
+ },
+ "4": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Balkan"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": " Jugoslawien"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " Yugoslavia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Балканы"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": " Югославия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1830-2010"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1830-2010"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1830-2010"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Rastislava Mirković"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkan"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jugoslawien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkanismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Travelogue"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Malerei"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Philosophie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Yugoslavia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Balkanism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "travelogue"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "painting"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "folk art"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "philosophy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Балканы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Югославия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "философия"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Tanja Zimmermann:  Der Balkan zwischen Ost und West. Mediale Bilder und kulturpolitische Prägungen "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q38038341"
+ },
+ "6": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1920-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1920-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1920-1970"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-06-20"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Anna Karpusheva"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Agitprop"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tauwetter"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "sowjetische Geschichte 1920-1970"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "avant-garde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "agitprop"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Thaw"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet History 1920-1970"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "революция"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "авангард"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "агитпроп"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вторая мировая война"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "оттепель"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "советская история 1920-1970-х гг."
+   },
+   {
+    "name": "DC.Title",
+    "content": "Evgenii Margolit:  Zhivye i mёrtvoe. Zametki k istorii sovetskogo kino 1920-1960kh "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q38038717"
+ },
+ "7": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1930-1940"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1930-1940"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1930-1940"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2015-07-03"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Language",
+    "scheme": "ISO639-1",
+    "content": "de"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Christian Pischel"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Stalin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Louis Hjelmslevs"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jeremija Joffe"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Dramaturgie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Szenarium"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Montage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "sowjetische Filmgeschichte 1930-1940"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Stalin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Louis Hjelmslevs"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Jeremija Joffe"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "dramaturgy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "scenario"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "montage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Film History 1930-1940"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Сталин"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иеремия Иоффе"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "драматургия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "сценарий"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "монтаж"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "история советского кино 1930-40-х гг"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Anke Hennig:  Sowjetische Kinodramaturgien. Konfliktlinien zwischen Literatur und Film in der Sowjetunion "
+   }
+  ],
+  "Language": "de",
+  "articleType": "Reviews",
+  "item_page": "Q38048128"
+ },
+ "8": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "de",
+    "content": "1915-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1915-1970"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1915-1970"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2015 Apparatus, Georgii Borodin"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Pyr’ev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Vladislav Tvardovskij"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Zarchi"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Rou"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Valentina und Zinaida Brumberg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ptuško"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Medvedkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Elizaveta Svilova"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ivan und Vladimir Nikitčenko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Festival"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Gosfil’mofond"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Vladislav Tvardovskii"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aleksandr Rou"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Valentina & Zinaida Brumberg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ptushko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Pyr’ev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Medvedkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Elizaveta Svilova"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ivan & Vladimir Nikitchenko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "festival"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Gosfil’mofond"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Владислав Твардовский"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Роу"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Елизавета Свилова"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иван и Владимир Никитченко"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фестиваль"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архив"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Title",
+    "content": "XIX festival' arkhivnogo kino  Belye Stolby "
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Reviews",
+  "item_page": "Q38048532"
+ },
+ "51": {
+  "meta": [
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": "The Baron Friedrich Carl von Oppenheim Chair for the Study of Racism, Antisemitism, and the Holocaust, founded by the von Oppenheim Family of Cologne"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-04-30"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-11-02"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmmaterial"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Archivbild"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Visuelle Erinnerung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Historiographie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "footage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive image"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "historiography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фильм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киноматериалы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архив"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архивное изображение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "визуальная память"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "историография."
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q38049576"
+ },
+ "54": {
+  "meta": [
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-04-30"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-11-14"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jindrich Weil"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anton Burger"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aktualita"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "NS-Film-Propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmstudien zum Holocaust."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Jindřich Weil"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Anton Burger"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Karl Rahm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ivan Frič"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghetto Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt. Ein Dokumentarfilm aus dem jüdischen Siedlungsgebiet"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aktualita"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Nazi film propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust film studies."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Йиндржих Вайль"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Антон Бургер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Карл Рам"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иван Фрич"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт. Документальный фильм из еврейского поселения"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Aktualita"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "нацистская кинопропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киноисследования Холокоста."
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q38051027"
+ },
+ "73": {
+  "meta": [
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": " Deutsche Forschungsgemeinschaft"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-04-30"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-05-06"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Paul Dunant"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Otto Lehner"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Czernin-Palast"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "1945"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Premiere"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Publikum;"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Paul Dunant"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Otto Lehner"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czernin palace"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "1945"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "International Committee of the Red Cross (ICRC)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "premiere"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "audiences;"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Поль Дюнан"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Отто Ленер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Эрвин Вайнман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "1945"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Международный комитет Красного Креста (МККК)"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фильмография Терезиенштадта"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "премьера"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "зрители"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Фюрер дарит евреям город"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост;"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q38056798"
+ },
+ "34": {
+  "meta": [
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1939-45"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-08"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-05-10"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-10"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Natascha Drubek"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Dodalová"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Lanzmann"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghettofilm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Der ewige Jude"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Kulmhof"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Dodalová"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Lanzmann"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Murmelstein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "конопропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Додалова"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ланцманн"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Мурмельштайн"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Editorial"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Editorial",
+  "item_page": "Q38110802"
  }
 }

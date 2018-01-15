@@ -1,6 +1,6 @@
 
 
-# map properties to DC fieldsand item pages to property values
+# map properties to DC fields and item pages to property values
 mappings = {
     'Language': {
       'property': 'P364',
@@ -11,7 +11,8 @@ mappings = {
         'lv': 'Q9078',
         'pl': 'Q809',
         'ru': 'Q7737',
-        'uk': 'Q8798'
+        'uk': 'Q8798',
+        'de': 'Q188'
         }
       },
     'DC.Source.DOI': {
@@ -26,7 +27,8 @@ mappings = {
         'lv': 'Q9078',
         'pl': 'Q809',
         'ru': 'Q7737',
-        'ukr': 'Q8798'
+        'uk': 'Q8798',
+        'de': 'Q188'
         }
       },
     'DC.Identifier.URI': {
@@ -37,6 +39,9 @@ mappings = {
       },
     'DC.Creator.PersonalName': {
       'property': 'P2093' # author name string
+      },
+    'P50': {
+      'property': 'P50' # author
       },
     'DC.Source.Volume': {
       'property': 'P478' # volume
@@ -60,6 +65,14 @@ mappings = {
     'DC.Subject': {
       'property' : 'P921' # main subject
       },
+    'DC.Coverage.spatial': {
+        'property': 'P921', #main subject
+        'delimiter': '[,;]'
+      },
+     'DC.Coverage.temporal': {
+        'property': 'P921', #main subject
+        'delimiter': '[,;]'
+      },
     'DC.Identifier': {
       'property': 'P2322' # article ID
       },
@@ -69,16 +82,17 @@ mappings = {
     'DC.Type.articleType': {
       'property': 'P136', # genre
       'map': {
-        'Reviews': 'Q637866',
-        'Articles': 'Q213051'
+        'Reviews': 'Q637866', # book review
+        'Articles': None, # don't use property
+        'Editorial': 'Q871232' # editorial
         }
       },
     'DC.Source': {},
     'DC.Source.ISSN': {},
     'DC.Type': {},
-    'DC.Title.Alternative': {}
+    'DC.Title.Alternative': {},
+    'DC.Description': {}
 
 
   }
-
 

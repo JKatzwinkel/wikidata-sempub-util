@@ -30,7 +30,7 @@ def lookup(name, lang):
 # default statements:
 default_statements = {
     # published in apparatus
-    'P1433': ['Q30689463'],
+    'P1433': ['Q28032970'],
     # instance of academic journal article
     'P31': ['Q18918145']
     }

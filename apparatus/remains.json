@@ -2565,5 +2565,366 @@
   "Language": "cs",
   "articleType": "Articles",
   "item_page": "Q47206449"
+ },
+ "49": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Gertrud Koch"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.issued",
+    "scheme": "ISO8601",
+    "content": "2016-04-30"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-11-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Language",
+    "scheme": "ISO639-1",
+    "content": "en"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Gertrud Koch"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "http://creativecommons.org/licenses/by/4.0"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Claude Lanzmann"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Benjamin Murmelstein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Bauschowitz"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Rom"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jerusalem"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Wien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Nisko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Madagaskar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Prag"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Oral History"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaustüberlebender"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Judenrat"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Erzählzeit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Performativität"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ethik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Fiktion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Claude Lanzmann"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Benjamin Murmelstein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Bohušovice"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Rome"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Jerusalem"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Vienna"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Nisko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Madagascar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Prague"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "oral history"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust survivor"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Judenrat"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "narrative time"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "performativity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ethics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "fiction"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Клод Ланцман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Беньямин Мурмельштейн"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Баушовиц"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Терезиенштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Рим"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иерусалим"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вена"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ниско"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Мадагаскар"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Прага"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "устная история"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "выживший в Холокосте"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Юденрат"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "пропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "повествовательное время"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "перформативность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "этика"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фикция"
+   },
+   {
+    "name": "DC.Title",
+    "content": "“Madagascar, Nisko, Theresienstadt, Auschwitz.” On the Visibility of Sites in Claude Lanzmann’s  The Last of the Unjust  (2013)"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q50113085"
  }
 }

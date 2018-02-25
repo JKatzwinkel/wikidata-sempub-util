@@ -6079,6 +6079,7 @@
  },
  "49": {
   "id": "49",
+  "item_page": "Q50113085",
   "url": "http://www.apparatusjournal.net/index.php/apparatus/article/view/49/103",
   "meta": [
    {
@@ -6503,7 +6504,8 @@
   ],
   "doi": "10.17892/app.2016.0003.49",
   "Language": "en",
-  "articleType": "Articles"
+  "articleType": "Articles",
+  "done": true
  },
  "25": {
   "id": "25",

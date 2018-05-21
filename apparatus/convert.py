@@ -32,7 +32,7 @@ mappings = {
         }
       },
     'DC.Identifier.URI': {
-      'property': 'P856' # official website
+#      'property': 'P856' # official website
       },
     'P953': {
       'property' : 'P953' # full work available

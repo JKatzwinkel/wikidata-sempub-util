@@ -5902,5 +5902,228 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54269310"
+ },
+ "21": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Ava Mirković"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Territory of the former SFRY"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "end of 1990s and 21st century"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-03-18"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Divna Mrdeža Antonina"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Adisa Bašić"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Olga Dimitrijević"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Olja Savićević"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ognjen Svilčić"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tobias Träger"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkan"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jugoslawien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Post-Jugoslawien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Drama"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Divna Mrdeža Antonina"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Adisa Bašić"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Olga Dimitrijević"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Olja Savićević"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ognjen Svilčić"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Tobias Träger"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Post-Yugoslavia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "drama"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Дивна Мрдежа Антонина"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Адиса Башич"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Олга Димитрийевич"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иван Ловренович"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Елена Поповска"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Оля Савичевич"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Огньен Свилчич"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Тобиас Трэгер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Балканы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Югославия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Пост-Югославия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "драма"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Renate Hansen-Kokoruš (ed.):  Facing the Present. Transition in Post-Yugoslavia. The Artists' View "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269392"
  }
 }

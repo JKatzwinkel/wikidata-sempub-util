@@ -3155,5 +3155,168 @@
   "Language": "pl",
   "articleType": "Articles",
   "item_page": "Q54266772"
+ },
+ "42": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Wolfgang Beilenhoff"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-07-31"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-07-31"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-11-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Sabine Hänsgen, Wolfgang Beilenhoff"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jurij Chanjutin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "BRD"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "DDR"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Autorenkommentar"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Voice-over"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film und Drittes Reich"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film und Kalter Krieg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Iurii Khaniutin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Maia Turovskaia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Federal Republic of Germany"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "documentary  film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "montage of attractions"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "voice-over commentary"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Cinema and Third Reich"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Cinema and Cold War"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Юрий Ханютин"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "ФРГ"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "ГДР"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "закадровый комментарий"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино и Третий Рейх"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино и холодная война"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54267079"
  }
 }

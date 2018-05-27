@@ -8451,5 +8451,108 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54270109"
+ },
+ "98": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Jonathan Lyndon Owen"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-13"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-12-09"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-13"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Miro Bernat"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Erna Friesová"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "J. Trnka"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czechoslovakia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czech"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "short film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "socialism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Stalinism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Zhdanovism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "defence"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "sport"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "health"
+   },
+   {
+    "name": "DC.Title",
+    "content": " Film – náš pomocník. České krátké filmy 50. let. Film – Our Helper. Czech Short Films of the 1950s "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54270217"
  }
 }

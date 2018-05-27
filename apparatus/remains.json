@@ -5503,5 +5503,133 @@
   "Language": "en",
   "articleType": "Interviews",
   "item_page": "Q54269113"
+ },
+ "80": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Florian Olbrich"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-06-23"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Richard Wortman"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Moskau-Tartu Schule der Semiotik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Repräsentation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kultursemiotik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Richard Wortman"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russian Empire"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "monarchy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "representation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cultural semiotics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ричард Уортман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Российская империя"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "монархия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "репрезентация"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "культурная семиотика"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Richard Wortman:  Visual Texts, Ceremonial Texts, Texts of Exploration: Collected Articles on the Representation of Russian Monarchy "
+   }
+  ],
+  "Language": "de",
+  "articleType": "Reviews",
+  "item_page": "Q54269132"
  }
 }

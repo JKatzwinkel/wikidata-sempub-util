@@ -10,7 +10,7 @@ from apparatus.convert import mappings
 
 # helper function for lookup
 def exact_match(record, name, lang):
-  if record.get('description', '') != 'Wikipedia disambiguation page':
+  if not record.get('description', '').endswith('disambiguation page'):
     match = record.get('match', {})
     if match.get('text', '').lower() == name.lower():
     #if match.get('language', '') == lang:
@@ -19,6 +19,7 @@ def exact_match(record, name, lang):
 
 # try and retrieve wikidata item by name search
 def lookup(name, lang):
+  name = name.strip()
   results = search.lookup(name, lang=lang)
   results = results.get('search', [])
   # only use results with exact matching labels
@@ -125,7 +126,7 @@ for identifier in selected_keys or apparatus.keys():
         labels[statement['lang']] = value
     elif key == 'DC.Description':
       if 'lang' in statement:
-        descriptions[statement['lang']] = ' '.join(re.split('\s+', value))
+          descriptions[statement['lang']] = ' '.join(re.split('\s+', value))[:250]
 
     # handle mapped DC properties
     if key in mappings:
@@ -135,6 +136,7 @@ for identifier in selected_keys or apparatus.keys():
         prop = wiki.prop(prop)
 
       if prop: # no property field means ignore this key
+        print(' --- ')
         print('use property {}'.format(prop))
         # see if we need to split value string
         if 'delimiter' in mappings[key]:
@@ -176,13 +178,12 @@ for identifier in selected_keys or apparatus.keys():
           else:
             try:
 
-              if not (type(target) == wiki._wiki.page.ItemPage and
-                  target in related_entities.get(prop.id, [])):
+              if not target in related_entities.get(prop.id, []):
 
                 print('creating claim using property {}'.format(prop.id))
                 # create claim
                 claim = wiki.create_claim(prop.id)
-                print('claim {} about to have target set: {}'.format(claim, target))
+                #print('claim {} about to have target set: {}'.format(claim, target))
                 claim.setTarget(target)
                 # add claim to item page
                 print('add claim to item page {}'.format(item_page.id))
@@ -218,9 +219,9 @@ for identifier in selected_keys or apparatus.keys():
   # flag article as processed
   article['done'] = True
 
-  # add labels and descriptions to item page
+  # add labels -and-descriptions- to item page
   item_page.editLabels(labels=labels, bot=True)
-  item_page.editDescriptions(descriptions=descriptions, bot=True)
+  #item_page.editDescriptions(descriptions=descriptions, bot=True)
 
 
   print(labels)

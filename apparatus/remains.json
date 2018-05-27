@@ -3905,5 +3905,148 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54267974"
+ },
+ "9": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Irina Tcherneva"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2015-07-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Irina Tcherneva"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Großer Vaterländischer Krieg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmindustrie der Kriegszeit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Mobilisierung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmvertrieb"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zensur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Il’ia Kopalin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "China"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Mongolia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Great Britain"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ghetto Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "the Great Patriotic War"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film industry of wartime"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "occupation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вторая мировая война"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Великая Отечественная война"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кинопроизводство военного времени"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "оккупация"
+   },
+   {
+    "name": "DC.Title",
+    "content": "International Colloquium  Soviet War Propaganda on the Movie Screen, 1939–1946 / La propagande de guerre soviétique à l’écran, 1939­-1946 "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54268185"
  }
 }

@@ -4651,5 +4651,168 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54268884"
+ },
+ "30": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Elena Chetina"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-04-29"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Elena Chetina"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "John Grierson"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Agnieszka Zwiefka"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Gianfranco Rosi"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Denis Klebeev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ivan  Osnovikoff"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Perm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "John Grierson"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Agnieszka Zwiefka"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Gianfranco Rosi"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Denis Klebeev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ivan  Osnovikoff"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Perm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Джон Грирсон"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Агнешка Звефка"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Нанау"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иоанис Нюге"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Денис Клеблеев"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Беттина Перут"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Иван Основикофф"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Леонард Ретель Хельмрих"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Пермь"
+   },
+   {
+    "name": "DC.Title",
+    "content": "XV Mezhdunarodnyi festival’ dokumental’nogo kino  Flaertiana "
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Reviews",
+  "item_page": "Q54268952"
  }
 }

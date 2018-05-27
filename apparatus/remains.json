@@ -7005,5 +7005,208 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54269542"
+ },
+ "56": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Carlo Comanducci"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-01-13"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Medialität"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Mimesis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aktion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Subjekt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sprache"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Pantomime"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "mediality"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "mimesis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ethics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "action"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "subject"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "subjectivity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "language"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "subjection"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "alienation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "mime"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "commedia dell’arte"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Альпы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Кинетта"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "медиальность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "перформативность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "этика"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "действие"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "субъект"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "субъектность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "язык"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "подчинение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "отчуждение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "мим"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54269566"
  }
 }

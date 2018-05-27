@@ -6125,5 +6125,153 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54269392"
+ },
+ "41": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Adrián Bene"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Hungary"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1945-1995"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-07-29"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Miklós Jancsó"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Béla Tarr"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ungarn"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmadaption"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Moderne"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Nouvelle Vague"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Miklós Jancsó"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Béla Tarr"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Hungary"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "intermediality"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "modernism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "nouvelle vague"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "postmodernism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Габор Боди"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Янчо Миклош"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Венгрия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "интермедиальность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "модернизм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "новая волна"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Gelencsér Gábor:  Forgatott könyvek. A magyar film és az irodalom kapcsolata 1945 és 1995 között "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269434"
  }
 }

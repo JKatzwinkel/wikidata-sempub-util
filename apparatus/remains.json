@@ -7696,5 +7696,128 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54269693"
+ },
+ "74": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "David Sorfa"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-05-28"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tschechoslowakei"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "DDR"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kommunismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Politik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Genre"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czechoslovakia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "communism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "politics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "genre"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Чехословакия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "ГДР"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "коммунизм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "политика"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Karl, Lars and Pavel Skopal (eds.):  Cinema in Service of the State: Perspectives on Film Culture in the GDR and Czechoslovakia, 1945-1960 "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269765"
  }
 }

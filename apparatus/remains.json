@@ -5084,5 +5084,182 @@
   "Language": "ru",
   "articleType": "Articles",
   "item_page": "Q54269028"
+ },
+ "66": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Raoul Eshelman"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-01-26"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Pawel Pawlikowski"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Phänomenologie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anamorphose"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Gabe, Gegebenheit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "4 Months, 3 Weeks, 2 Days"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Performatismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ida"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Pawel Pawlikowski"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "phenomenology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "anamorphosis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "giving"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "givenness"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gift"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "4 luni, 3 săptămâni și 2 zile"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " 4 Months, 3 Weeks, 2 Days"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " Ida"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "performatism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Павел Павликовски"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "данность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "дарение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "дар"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ида"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "перформатизм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Jean-Luc Marion’s Postmetaphysical Phenomenology and Film. An Analysis of  4 Months, 3 Weeks, 2 Days  and  Ida "
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54269059"
  }
 }

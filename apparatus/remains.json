@@ -7336,5 +7336,197 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54269587"
+ },
+ "59": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Eric Rauth"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": "(I do my reserach at Georgetown U's Lauinger library, George Mason U's Fenwich library, Chapel Hill's Davis Library which all have excellent media holdings and resources"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-01-15"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Bram Stoker"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zeit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Vampire"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kinetik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theosophie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Expressionismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Bram Stoker"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "time"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "horror"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "vampires"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "quantum physics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "semiotics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " kinesis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "kinetics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "kinesics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "intertitles"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Expressionism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Фридрих Вильгельм Мурнaу"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Жиль Делез"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "немое кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "вампиры"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кинезис"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "теософия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "экспрессионизм"
+   },
+   {
+    "name": "DC.Title",
+    "content": " Nosferatu ’s Gesture. Ciné-kinesis in the Silent Era, East and West"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54269630"
  }
 }

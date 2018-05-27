@@ -5364,5 +5364,144 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54269089"
+ },
+ "71": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Oksana Chefranova"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": "Natalia Meschaninova"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": " Lubov Mulmenk"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": " the MacMillan Center"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": " Yale European Studies Council"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": ""
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-03-14"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russland, Filme von Frauen, Filmemacherinnen, Natal’ja Meščaninova, Kombinat “Hoffnung”, Authentizität, Dokumentarfilm, Marina Razbežkina"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ljubov’ Mul’menko."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Natal’ia Meshchaninova"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Liubov’ Mul’menko"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "women filmmakers"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "The Hope Factory"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "authenticity, documentary."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Наталья Мещанинова"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Любовь Мульменко"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": " женщины-кинематографисты"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Комбинат “Надежда”"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "достоверность"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Interviews",
+  "item_page": "Q54269113"
  }
 }

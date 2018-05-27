@@ -3451,5 +3451,128 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54267244"
+ },
+ "25": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Anna Batistová"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Czechoslovakia"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1920-1960"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-04-06"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-11-03"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Anna Batistová"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tschechoslowakische Filmindustrie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Exil"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Biographie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Nazi-Besetzung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czechoslovak film industry"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "exile"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "biography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Nazi occupation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киностудия Баррандов"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киностудия Люцерна"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Чехословакия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "изгнание"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вторая мировая война"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "нацистская оккупация"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Krystyna Wanatowiczová:  Miloš Havel - český filmový magnát "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54267352"
  }
 }

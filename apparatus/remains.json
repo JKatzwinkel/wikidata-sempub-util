@@ -4448,5 +4448,90 @@
   "Language": "de",
   "articleType": "Reviews",
   "item_page": "Q54268785"
+ },
+ "24": {
+  "meta": [
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "South East Europe"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-03-22"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Lydia Papadimitriou"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkan Survey"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Balkan-Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "europäische Co-Produktionen"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Balkan Survey"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Balkan Cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "European co-productions"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Balkan Survey"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "балканское кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "совместное европейское производствo"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54268852"
  }
 }

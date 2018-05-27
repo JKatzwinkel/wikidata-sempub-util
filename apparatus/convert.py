@@ -84,7 +84,8 @@ mappings = {
       'map': {
         'Reviews': 'Q637866', # book review
         'Articles': None, # don't use property
-        'Editorial': 'Q871232' # editorial
+        'Editorial': 'Q871232', # editorial
+        'Interviews': 'Q4202018' # interview
         }
       },
     'DC.Source': {},

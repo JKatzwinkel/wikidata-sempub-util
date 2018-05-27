@@ -6872,5 +6872,138 @@
   "Language": "en",
   "articleType": "Editorial",
   "item_page": "Q54269516"
+ },
+ "55": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Andrew Chapman"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-01-10"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetkultur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Mode"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Hygiene"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Komödien der Stalinzeit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Moderne"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "corporeality"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "fashion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "hygiene"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Stalin-era comedies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "everyday life"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "canonicity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советская культура"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "телесность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "мода"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "комедии сталинского периода"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "быт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "“Большой стиль”"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "каноничность"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Tat’iana Dashkova:  Telesnost’ – Ideologiia – Kinematograf: Visual’nyi kanon i sovetskaia povsednevnost’ "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269542"
  }
 }

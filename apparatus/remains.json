@@ -2583,11 +2583,6 @@
     "content": "2016-10-29"
    },
    {
-    "name": "DC.Date.issued",
-    "scheme": "ISO8601",
-    "content": "2016-04-30"
-   },
-   {
     "name": "DC.Date.modified",
     "scheme": "ISO8601",
     "content": "2016-11-01"
@@ -2598,36 +2593,12 @@
     "content": "text/html"
    },
    {
-    "name": "DC.Language",
-    "scheme": "ISO639-1",
-    "content": "en"
-   },
-   {
     "name": "DC.Rights",
     "content": "Copyright (c) 2016 Apparatus, Gertrud Koch"
    },
    {
-    "name": "DC.Rights",
-    "content": "http://creativecommons.org/licenses/by/4.0"
-   },
-   {
     "name": "DC.Source.URI",
     "content": "http://www.apparatusjournal.net/index.php/apparatus"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
-    "content": "Claude Lanzmann"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
-    "content": "Benjamin Murmelstein"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
-    "content": "Bauschowitz"
    },
    {
     "name": "DC.Subject",
@@ -2682,22 +2653,7 @@
    {
     "name": "DC.Subject",
     "lang": "de",
-    "content": "Holocaustüberlebender"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
-    "content": "Judenrat"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
     "content": "Propaganda"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
-    "content": "Erzählzeit"
    },
    {
     "name": "DC.Subject",
@@ -2707,22 +2663,7 @@
    {
     "name": "DC.Subject",
     "lang": "de",
-    "content": "Ethik"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "de",
     "content": "Fiktion"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "en",
-    "content": "Claude Lanzmann"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "en",
-    "content": "Benjamin Murmelstein"
    },
    {
     "name": "DC.Subject",
@@ -2787,22 +2728,7 @@
    {
     "name": "DC.Subject",
     "lang": "en",
-    "content": "Judenrat"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "en",
     "content": "propaganda"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "en",
-    "content": "narrative time"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "en",
-    "content": "performativity"
    },
    {
     "name": "DC.Subject",
@@ -2817,22 +2743,7 @@
    {
     "name": "DC.Subject",
     "lang": "ru",
-    "content": "Клод Ланцман"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "ru",
-    "content": "Беньямин Мурмельштейн"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "ru",
     "content": "Баушовиц"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "ru",
-    "content": "Терезиенштадт"
    },
    {
     "name": "DC.Subject",
@@ -2872,22 +2783,7 @@
    {
     "name": "DC.Subject",
     "lang": "ru",
-    "content": "устная история"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "ru",
     "content": "Холокост"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "ru",
-    "content": "выживший в Холокосте"
-   },
-   {
-    "name": "DC.Subject",
-    "lang": "ru",
-    "content": "Юденрат"
    },
    {
     "name": "DC.Subject",
@@ -2915,10 +2811,6 @@
     "content": "фикция"
    },
    {
-    "name": "DC.Title",
-    "content": "“Madagascar, Nisko, Theresienstadt, Auschwitz.” On the Visibility of Sites in Claude Lanzmann’s  The Last of the Unjust  (2013)"
-   },
-   {
     "name": "DC.Type.articleType",
     "content": "Articles"
    }
@@ -2926,5 +2818,342 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q50113085"
+ },
+ "92": {
+  "meta": [
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-10-27"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Marlon Brando"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Marlen Chuciev"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "USA"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "DDR"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "BRD"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Italien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Frankreich"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Körpersprache"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Körpertechniken"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Genrefilm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Marlon Brando"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "USA"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "FRG"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Italy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "France"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "body language"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "americanisation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "techniques of the body"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "imitation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "ГДР"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "ФРГ"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Италия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Франция"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "язык тела"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жанровое кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "подражание"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "de",
+  "articleType": "Articles",
+  "item_page": "Q52554598"
+ },
+ "32": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Ewa Ciszewska"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Ewa Ciszewska"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Daniel Szylit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Łódź"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Nachkriegsfilm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto-Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Daniel Szylit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Łódź"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "postwar films"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ghetto film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "pl",
+    "content": "Łódź, filmy powojenne"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "pl",
+    "content": "filmy dokumentalne"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "pl",
+    "content": "Daniel Szylit"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Даниэль Шилит"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Лицманштадт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Лодзь"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": " послевоенное кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "фильмы о гетто"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "pl",
+  "articleType": "Articles",
+  "item_page": "Q54266772"
  }
 }

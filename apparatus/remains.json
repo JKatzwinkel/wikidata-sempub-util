@@ -7528,5 +7528,173 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54269630"
+ },
+ "60": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Ivan Pintor Iranzo"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-01-15"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksandr Puškin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Lev Tolstoj"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aby Warburg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Stille"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Nebel"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sturm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "haptische Visualität"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aleksandr Pushkin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Lev Tolstoi"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aby Warburg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "iconology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "silence"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "fog"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "storm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "haptic visuality"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Пушкин"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Лев Толстой"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Жиль Делез"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "молчание"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "туман"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "буря"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "тактильная визуальность"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54269693"
  }
 }

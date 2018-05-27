@@ -5764,5 +5764,143 @@
   "Language": "ru",
   "articleType": "Reviews",
   "item_page": "Q54269178"
+ },
+ "35": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Hanin Hannouch"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-05-15"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sergej Tret’jakov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Langston Hughes"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kommunismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Minderheitenkultur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "bolschewistische Revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Sergei Tret’iakov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Langston Hughes"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "communism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "minority culture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "authenticity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Владимир Маяковский"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "авангард"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "коммунизм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "культура меньшинства"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "аутентичность"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Большевистская Революция"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Steven S. Lee:  The Ethnic Avant-Garde. Minority Culture and World Revolution "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269310"
  }
 }

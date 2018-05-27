@@ -4927,5 +4927,162 @@
   "Language": "ru",
   "articleType": "Articles",
   "item_page": "Q54268995"
+ },
+ "23": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Victor Zatsepin"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": " Germany"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": " Russia"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1914-1928"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-03-21"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Evgenij Petrov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Il’ia Il’f"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "deutscher Stummfilm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Stummfilmkomödie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zwölf Stühle"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmpropaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Willy Karfiol"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kintopp"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Il’ia Il’f"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "German silent film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "silent comedy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "The Twelve Chairs"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " Willy Karfiol"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Евгений Петров"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "немецкое немое кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "немая комедия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Двенадцать стульев"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кинопропаганда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": " немая комическая"
+   },
+   {
+    "name": "DC.Title",
+    "content": "K voprosu ob istochnikakh siuzheta romana  Dvenadtsat' stul'ev "
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Articles",
+  "item_page": "Q54269028"
  }
 }

@@ -6529,5 +6529,348 @@
   "Language": "ru",
   "articleType": "Reviews",
   "item_page": "Q54269501"
+ },
+ "100": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Ana Hedberg Olenina"
+   },
+   {
+    "name": "P50",
+    "content": "Irina Schulzki"
+   },
+   {
+    "name": "DC.Coverage",
+    "lang": "en",
+    "content": "film, art"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Europe"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1989-2017"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Medien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Mise-en-geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Mediation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Bewegung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Körper"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sprache"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Montage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "reine Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Deformation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Anaphora"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Karpalistik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Spektakel"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Macht"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Bild"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "politische Kunst"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Stasis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "media"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "mise en geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "mediation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " movement"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "body"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "language montage"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ethics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "pure gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "technology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "deformation"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "physiognomy"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "anaphora"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "carpalistics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "spectacle"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "power"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "image"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "political art"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "stasis"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "мизанжест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "движение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "тело"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": " язык"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "монтаж"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "этика"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "чистый жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "аппарат"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "технология"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "деформация"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "анафора"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "карпалистика"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "зрелище"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "власть"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "образ"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "политическое искусство"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Editorial",
+  "item_page": "Q54269516"
  }
 }

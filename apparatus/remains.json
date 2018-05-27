@@ -6416,5 +6416,118 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54269476"
+ },
+ "79": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Денис Ларионов"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1900-2010"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-06-23"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Marcel Mausse"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Stimme"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Geste"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Körpertechnik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Cultural Studies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Marcel Mausse"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "voice"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "gesture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "body technique"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cultural studies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "голос"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "жест"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "cultural studies"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Оксана Булгакова:  Голос как культурный феномен "
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Reviews",
+  "item_page": "Q54269501"
  }
 }

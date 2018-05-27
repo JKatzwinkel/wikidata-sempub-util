@@ -8293,5 +8293,163 @@
   "Language": "ru",
   "articleType": "Reviews",
   "item_page": "Q54270026"
+ },
+ "89": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Raoul Eshelman"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-08-16"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Vladimir Sorokin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Michail Epštejn"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Perestroika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Post-Postmoderne"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Diskursanalyse"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Vladimir Sorokin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Dmitrii Prigov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Mikhail Epshtein"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "perestroika"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "postmodernism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Conceptualism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "sincerity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "authenticity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "irony"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Россия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "перестройка"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "концептуализм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "аутентичность"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Ellen Rutten:  Sincerity after Communism. A Cultural History "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54270109"
  }
 }

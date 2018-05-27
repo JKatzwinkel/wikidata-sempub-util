@@ -3318,5 +3318,138 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54267079"
+ },
+ "48": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Irina Sandomirskaja"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-11-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Irina Sandomirskaja"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "kultureller Widerstand"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto-Kultur und -Kinematographie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Panorama"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Panorama-Prinzip"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zeugenliteratur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cultural resistance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ghetto culture and cinematography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "panorama"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "the panorama principle"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "witness literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Ганс Гюнтер Адлер"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "культурное сопротивление"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "культура и кинематограф гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "панорама"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "принцип панорамы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "литература свидетельства"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54267244"
  }
 }

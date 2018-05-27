@@ -7208,5 +7208,133 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54269566"
+ },
+ "58": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Dijana Jelača"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-01-15"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Jugoslawien"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sozialismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "visuelle Kultur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "jugoslawische Partisanenfilme"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "jugoslawische Partisanenliteratur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Genre"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "partisans"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "socialist visual culture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Yugoslav partisan film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Yugoslav partisan literature"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "genre"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Югославия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "партизанское движение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "социализм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "югославские фильмы о партизанах"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "югославская литература о партизанах"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вторая мировая война"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Miranda Jakiša and Nikica Gilić (eds.):  Partisans in Yugoslavia: Literature, Film and Visual Culture "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269587"
  }
 }

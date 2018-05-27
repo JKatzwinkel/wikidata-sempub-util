@@ -4533,5 +4533,123 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54268852"
+ },
+ "15": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Irina Schulzki"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " Ukraine"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " Russia"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1950s-2012"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-02-17"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Irina Schulzki"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "postsowjetischer Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "ukrainischer Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "kinematographische Dissonanz"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zensur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "post-Soviet cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Ukrainian cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinematographic dissonance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "советское кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "постсоветское кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "украинское кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кинематографический диссонанс"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Eugénie Zvonkine:  Kira Mouratova. Un cinéma de la dissonance "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54268884"
  }
 }

@@ -5631,5 +5631,138 @@
   "Language": "de",
   "articleType": "Reviews",
   "item_page": "Q54269132"
+ },
+ "53": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Victor Zatsepin"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "ru",
+    "content": " USA"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "ru",
+    "content": "1910s-1930s"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-11-11"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Henry Ford"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Charlie Chaplin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "USA"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Avantgarde"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "novy byt."
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Henry Ford"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Charlie Chaplin"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "USA"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "organisation of labour"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "novy byt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Генри Форд"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": " СССР"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "авангард"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "организация труда"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "новый быт"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Owen Hatherly:  The Chaplin Machine. Slapstick, Fordism and the Communist Avant-Garde "
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Reviews",
+  "item_page": "Q54269178"
  }
 }

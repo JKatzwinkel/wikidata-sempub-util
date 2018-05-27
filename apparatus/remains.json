@@ -6273,5 +6273,148 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54269434"
+ },
+ "33": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Andrew Behrendt"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "United Kingdom"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " France"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " Soviet Union"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": " United States"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1750-2013"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-05-02"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Mediengeschichte"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ästhetik"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Visual Studies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "media history"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film studies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "technology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinematography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "aesthetics"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "visual studies"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "comparative media"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "технология"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "визуальные исследования"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "сравнительные медиа"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Jeffrey Geiger and Karin Littau (eds.):  Cinematicity in Media History "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54269476"
  }
 }

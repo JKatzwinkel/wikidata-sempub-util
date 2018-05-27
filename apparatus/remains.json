@@ -4048,5 +4048,213 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54268185"
+ },
+ "14": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Andrea Pócsik"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "en",
+    "content": "Vera & Donald Blinken Open Society Archives"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Eastern and Central Europe"
+   },
+   {
+    "name": "DC.Coverage.temporal",
+    "lang": "en",
+    "content": "1960"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-06-15"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-02-09"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-06-15"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Andrea Pócsik"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Péter Forgács"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ungarn, Polen"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tschechoslowakei"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ostdeutschland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Lehrfilme"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Archiv"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Multimedia-Ausstellung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Beobachtung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Péter Forgács"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Hungary"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Poland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Czechoslovakia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Romania"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "documentary"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "archive"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "multimedia art exhibition"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "surveillance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "secret police"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Габо Боди"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Венгрия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Польша"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Чехословакия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Восточная Германия"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Румыния"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "образовательные фильмы"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "архив"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "мультимедийные выставки"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "наблюдение"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "слежка"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "спецслужбы"
+   },
+   {
+    "name": "DC.Title",
+    "content": " Surveillance.  Secret Police Film Festival."
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54268318"
  }
 }

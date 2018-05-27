@@ -3762,5 +3762,148 @@
   "Language": "de",
   "articleType": "Reviews",
   "item_page": "Q54267638"
+ },
+ "50": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Karol Jóźwiak"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-11-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Karol Jóźwiak"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmhochschule Łódź"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Studio Opus Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmstudio WFF"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": " Filmstudio WFO"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmstudio Se-ma-for"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Łódź"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "polnisches Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Łódź Film School"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Feature Film Studio WFF"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Educational Film Studio WFO"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Short Film Studio Se-ma-for"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Łódź"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Polish cinematography"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Лодзинская школа кинематографии"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киностудия Opus Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "студия игрового кино WFF"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "студия образовательного кино WFO"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киностудия короткометражных фильмов Se-ma-for"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Лодзь"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "польская кинематография"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Ewa Ciszewska, Konrad Klejsa (eds.):  Kultura filmowa współczesnej Łodzi "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54267974"
  }
 }

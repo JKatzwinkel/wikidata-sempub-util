@@ -8165,5 +8165,133 @@
   "Language": "ru",
   "articleType": "Articles",
   "item_page": "Q54269870"
+ },
+ "82": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Andrei Linchenko"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "ru",
+    "content": "Подготовлено при поддержке гранта РФФИ 16-33-01019  «Государственная политика памяти в Российской Федерации:  философские основания и стратегии реализации»."
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-08-03"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Sowjetunion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Gedächtniskultur"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Lithuania"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Soviet Union"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Holocaust"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "memory culture"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Литва"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Советский Союз"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Вторая мировая война"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Холокост"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "мемориальная культура"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "историческое сознание"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "исторический опыт"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "конфликты воспоминаний"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": " материальная память"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Ekaterina Makhotina:  Erinnerungen an den Krieg – Krieg der Erinnerungen. Litauen und der Zweite Weltkrieg "
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Reviews",
+  "item_page": "Q54270026"
  }
 }

@@ -4814,5 +4814,118 @@
   "Language": "ru",
   "articleType": "Reviews",
   "item_page": "Q54268952"
+ },
+ "36": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Anna Kovalova"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-05-24"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmzensur im Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "frühes russisches Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Filmtheater"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "St. Petersburg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Revolution"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Censorship in film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "early Russian cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "early cinema theatres"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "St. Petersburg"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "киноцензура"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "дореволюционное кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "ранние кинотеатры"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Санкт-Петербург"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Петроград"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Articles",
+  "item_page": "Q54268995"
  }
 }

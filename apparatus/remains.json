@@ -3574,5 +3574,193 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54267352"
+ },
+ "47": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Jonas Mirbeth"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2016-10-29"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-10-25"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2016-11-01"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2016 Apparatus, Jonas Mirbeth"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Terezín"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theater"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Theatertexte"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Performance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kabarett"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Puppentheater"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Widerstand"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Theresienstadt"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Terezín"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "theatre"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "theatre texts"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "performance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cabaret"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "puppet theatre"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Resistance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "ghetto"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "National Socialism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "propaganda"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "театр"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "театральные тексты"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "спектакль"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кабаре"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кукольный театр"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "движение Сопротивления"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "гетто"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "пропаганда"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Lisa Peschel:  Performing Captivity, Performing Escape. Cabarets and Plays from the Terezín / Theresienstadt Ghetto. "
+   }
+  ],
+  "Language": "de",
+  "articleType": "Reviews",
+  "item_page": "Q54267638"
  }
 }

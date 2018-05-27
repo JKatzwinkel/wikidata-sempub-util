@@ -7977,5 +7977,193 @@
   "Language": "ru",
   "articleType": "Reviews",
   "item_page": "Q54269840"
+ },
+ "81": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Irina Sirotkina"
+   },
+   {
+    "name": "DC.Contributor.Sponsor",
+    "lang": "ru",
+    "content": "Institute for the History of Sience and Technology, of the Russian cademy of Sciences"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-07-03"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Aleksej Sidorov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Natal’ja Tian"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "die Kunst der Bewegung"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Kinemologie"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Tanz"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Komposition"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Konstruktion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Russische Akademie der Kunstwissenschaften"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Aleksei Sidorov"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Natal’ia Tian"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "the art of movement"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "kinemology"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "dance"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "composition"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "construction"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": " scientific management"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Synesthesia"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russian Academy of Artistic Sciences"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Алексей Сидоров"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Александр Ларионов"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Наталья Тиан"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Грет Палукка"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "искусство движения"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "хореология"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кинемология"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "танец"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "композиция"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "конструкция"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "ru",
+  "articleType": "Articles",
+  "item_page": "Q54269870"
  }
 }

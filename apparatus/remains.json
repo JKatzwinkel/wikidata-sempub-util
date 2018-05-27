@@ -8554,5 +8554,108 @@
   "Language": "en",
   "articleType": "Reviews",
   "item_page": "Q54270217"
+ },
+ "99": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Edward Alexander"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2017-12-13"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-12-21"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "nationales Kino"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "kroatischer Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "jugoslawischer Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Nachkriegsfilm"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "film history"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Croatian cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Yugoslav cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "post-war cinema"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Андраш Балинт Ковач"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "национальная кинематография"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "хорватское кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "послевоенное кино"
+   },
+   {
+    "name": "DC.Title",
+    "content": "Tomislav Šakić:  Modernizam u hrvatskom igranom filmu "
+   }
+  ],
+  "Language": "en",
+  "articleType": "Reviews",
+  "item_page": "Q54270440"
  }
 }

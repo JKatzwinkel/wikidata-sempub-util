@@ -5261,5 +5261,108 @@
   "Language": "en",
   "articleType": "Articles",
   "item_page": "Q54269059"
+ },
+ "18": {
+  "meta": [
+   {
+    "name": "P50",
+    "content": "Irina Souch"
+   },
+   {
+    "name": "DC.Coverage.spatial",
+    "lang": "en",
+    "content": "Russia"
+   },
+   {
+    "name": "DC.Date.created",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Date.dateSubmitted",
+    "scheme": "ISO8601",
+    "content": "2016-03-03"
+   },
+   {
+    "name": "DC.Date.modified",
+    "scheme": "ISO8601",
+    "content": "2017-06-27"
+   },
+   {
+    "name": "DC.Format",
+    "scheme": "IMT",
+    "content": "text/html"
+   },
+   {
+    "name": "DC.Rights",
+    "content": "Copyright (c) 2017 Apparatus. Film, Media and Digital Cultures of Central and Eastern Europe"
+   },
+   {
+    "name": "DC.Source.URI",
+    "content": "http://www.apparatusjournal.net/index.php/apparatus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Zeitgenössischer Film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Rußland"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "filmischer Realismus"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "de",
+    "content": "Emotion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "Russian contemporary film"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "sincerity"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "cinematic realism"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "en",
+    "content": "emotion"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "Современное российское кино"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "кинематографический реализм"
+   },
+   {
+    "name": "DC.Subject",
+    "lang": "ru",
+    "content": "эмоции"
+   },
+   {
+    "name": "DC.Type.articleType",
+    "content": "Articles"
+   }
+  ],
+  "Language": "en",
+  "articleType": "Articles",
+  "item_page": "Q54269089"
  }
 }
